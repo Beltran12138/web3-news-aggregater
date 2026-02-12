@@ -28,10 +28,18 @@ jobs:
       - name: Run Scraper
         run: node scripts/update-news.js
         
-      - name: Commit and Push changes
+      # 1. 将新数据提交回主分支 (保存历史记录)
+      - name: Commit data to master
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add public/data.json
           git commit -m "Auto-update news data [skip ci]" || echo "No changes to commit"
           git push
+
+      # 2. 将 public 文件夹部署到 gh-pages 分支 (用于展示)
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
