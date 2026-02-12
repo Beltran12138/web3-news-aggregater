@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web3 快讯聚合</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      min-height: 100vh;
+      color: #e4e4e7;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      padding: 30px 0;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      color: #a1a1aa;
+      font-size: 0.9rem;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .filters {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      padding: 8px 16px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      background: rgba(255, 255, 255, 0.05);
+      color: #e4e4e7;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover {
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .filter-btn.active {
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      border-color: transparent;
+    }
+
+    .filter-btn.blockbeats.active { background: #1E88E5; }
+    .filter-btn.chaincatcher.active { background: #FF6B35; }
+    .filter-btn.foresight.active { background: #9C27B0; }
+
+    .status-bar {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      font-size: 0.85rem;
+      color: #a1a1aa;
+    }
+
+    .refresh-btn {
+      padding: 8px 16px;
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      border: none;
+      color: white;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: opacity 0.2s;
+    }
+
+    .refresh-btn:hover {
+      opacity: 0.9;
+    }
+
+    .refresh-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .news-item {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 16px;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+
+    .news-item:hover {
+      background: rgba(255, 255, 255, 0.08);
+      transform: translateX(4px);
+    }
+
+    .news-item.important {
+      border-left: 3px solid #ef4444;
+      background: rgba(239, 68, 68, 0.1);
+    }
+
+    .news-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 8px;
+      gap: 10px;
+    }
+
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .source-tag {
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: white;
+    }
+
+    .source-tag.blockbeats { background: #1E88E5; }
+    .source-tag.chaincatcher { background: #FF6B35; }
+    .source-tag.foresight { background: #9C27B0; }
+
+    .important-tag {
+      padding: 3px 8px;
+      background: #ef4444;
+      border-radius: 10px;
+      font-size: 0.7rem;
+      color: white;
+      font-weight: 500;
+    }
+
+    .news-time {
+      color: #71717a;
+      font-size: 0.8rem;
+      white-space: nowrap;
+    }
+
+    .news-title {
+      font-size: 0.95rem;
+      line-height: 1.5;
+      color: #e4e4e7;
+    }
+
+    .news-content {
+      margin-top: 8px;
+      font-size: 0.85rem;
+      color: #a1a1aa;
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+      color: #a1a1aa;
+    }
+
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid rgba(255, 255, 255, 0.1);
+      border-top-color: #667eea;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 15px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .error {
+      text-align: center;
+      padding: 40px 20px;
+      color: #ef4444;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: #71717a;
+    }
+
+    .auto-refresh-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+    }
+
+    .toggle-switch {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .toggle-switch.active {
+      background: #667eea;
+    }
+
+    .toggle-switch::after {
+      content: '';
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      background: white;
+      border-radius: 50%;
+      top: 3px;
+      left: 3px;
+      transition: transform 0.2s;
+    }
+
+    .toggle-switch.active::after {
+      transform: translateX(20px);
+    }
+
+    .countdown {
+      font-size: 0.8rem;
+      color: #667eea;
+    }
+
+    @media (max-width: 600px) {
+      .controls {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .filters {
+        justify-content: center;
+      }
+
+      .status-bar {
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      .news-header {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Web3 聚合聚合</h1>
+      <p class="subtitle">实时聚合 PR | 香港媒体 | 交易所公告 | 深度快讯</p>
+    </header>
+
+    <div class="controls">
+      <div class="filters" id="filterContainer">
+        <button class="filter-btn active" data-source="all">全部</button>
+        <button class="filter-btn" data-source="PR Newswire">PR</button>
+        <button class="filter-btn" data-source="HK">香港专题</button>
+        <button class="filter-btn" data-source="EX">交易所</button>
+        <button class="filter-btn" data-source="BlockBeats">律动</button>
+        <button class="filter-btn" data-source="TechFlow">深度</button>
+        <button class="filter-btn" data-source="important">重要</button>
+      </div>
+
+      <div class="status-bar">
+        <div class="auto-refresh-toggle">
+          <span>自动刷新</span>
+          <div class="toggle-switch active" id="autoRefreshToggle"></div>
+          <span class="countdown" id="countdown">300s</span>
+        </div>
+        <button class="refresh-btn" id="refreshBtn">刷新</button>
+      </div>
+    </div>
+
+    <div class="news-list" id="newsList">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>正在加载快讯...</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allNews = [];
+    let currentFilter = 'all';
+    let autoRefresh = true;
+    let countdownValue = 60;
+    let countdownInterval = null;
+    let refreshInterval = null;
+
+    const newsListEl = document.getElementById('newsList');
+    const refreshBtn = document.getElementById('refreshBtn');
+    const countdownEl = document.getElementById('countdown');
+    const autoRefreshToggle = document.getElementById('autoRefreshToggle');
+
+    // 格式化时间
+    function formatTime(timestamp) {
+      if (!timestamp) return '';
+
+      const now = Date.now();
+      const diff = now - timestamp;
+
+      if (diff < 60 * 1000) {
+        return '刚刚';
+      } else if (diff < 60 * 60 * 1000) {
+        return Math.floor(diff / 60 / 1000) + '分钟前';
+      } else if (diff < 24 * 60 * 60 * 1000) {
+        return Math.floor(diff / 60 / 60 / 1000) + '小时前';
+      } else {
+        const date = new Date(timestamp);
+        return `${date.getMonth() + 1}/${date.getDate()} ${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}`;
+      }
+    }
+
+    // 获取来源类名
+    function getSourceClass(source) {
+      if (source === 'BlockBeats') return 'blockbeats';
+      if (source === 'ChainCatcher') return 'chaincatcher';
+      if (source === 'Foresight') return 'foresight';
+      return '';
+    }
+
+    // 渲染快讯列表
+    function renderNews() {
+      let filteredNews = allNews;
+
+      if (currentFilter === 'important') {
+        filteredNews = allNews.filter(n => n.isImportant || n.isHot || n.isTop);
+      } else if (currentFilter === 'HK') {
+        const hkSources = ['MetaEra', 'Techub News', 'WuBlockchain'];
+        filteredNews = allNews.filter(n => hkSources.includes(n.source));
+      } else if (currentFilter === 'EX') {
+        const exSources = [
+          'Binance', 'OKX', 'Bybit', 'Bitget', 'Gate.io', 'Kucoin', 
+          'MEXC', 'HTX', 'HashKey Exchange', 'HashKey Group', 'OSL', 'Matrixport', 'Ex.io'
+        ];
+        filteredNews = allNews.filter(n => exSources.includes(n.source));
+      } else if (currentFilter !== 'all') {
+        filteredNews = allNews.filter(n => n.source === currentFilter);
+      }
+
+      if (filteredNews.length === 0) {
+        newsListEl.innerHTML = '<div class="empty">暂无快讯数据</div>';
+        return;
+      }
+
+      newsListEl.innerHTML = filteredNews.map(news => `
+        <div class="news-item ${news.isImportant || news.isHot || news.isTop ? 'important' : ''}"
+             onclick="${news.link ? `window.open('${news.link}', '_blank')` : ''}">
+          <div class="news-header">
+            <div class="news-meta">
+              <span class="source-tag" style="background-color: ${news.sourceColor || '#666'}">${news.source}</span>
+              ${news.isImportant || news.isHot || news.isTop ? '<span class="important-tag">重要</span>' : ''}
+            </div>
+            <span class="news-time">${formatTime(news.timestamp)}</span>
+          </div>
+          <div class="news-title">${escapeHtml(news.title)}</div>
+          ${news.content && news.content !== news.title ? `<div class="news-content">${escapeHtml(news.content)}</div>` : ''}
+        </div>
+      `).join('');
+    }
+
+    // HTML 转义
+    function escapeHtml(text) {
+      if (!text) return '';
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // 获取快讯
+    async function fetchNews(showLoading = true) {
+      if (showLoading) {
+        newsListEl.innerHTML = `
+          <div class="loading">
+            <div class="loading-spinner"></div>
+            <p>正在从 GitHub 获取最新数据...</p>
+          </div>
+        `;
+      }
+
+      refreshBtn.disabled = true;
+      refreshBtn.textContent = '加载中...';
+
+      try {
+        // 优先尝试读取静态数据文件 (GitHub Pages 模式)
+        const response = await fetch('data.json?t=' + Date.now()); // 添加时间戳防止浏览器缓存
+        if (!response.ok) {
+          throw new Error('无法加载数据文件');
+        }
+        
+        const result = await response.json();
+        
+        // 兼容不同的数据结构
+        if (result.data && Array.isArray(result.data)) {
+          allNews = result.data;
+          
+          // 显示最后更新时间
+          if (result.updateTime) {
+            const date = new Date(result.updateTime);
+            document.querySelector('.subtitle').textContent = 
+              `上次更新: ${date.toLocaleString()} (每30分钟自动刷新)`;
+          }
+          
+          renderNews();
+        } else {
+          throw new Error('数据格式错误');
+        }
+      } catch (error) {
+        console.error('获取快讯失败:', error);
+        // 如果静态文件失败，尝试 API (本地开发模式兼容)
+        try {
+          const apiResponse = await fetch('/api/news');
+          const apiResult = await apiResponse.json();
+          if (apiResult.success) {
+             allNews = apiResult.data;
+             renderNews();
+             return;
+          }
+        } catch (e) {}
+
+        if (allNews.length === 0) {
+          newsListEl.innerHTML = `
+            <div class="error">
+              <p>获取数据失败</p>
+              <p style="margin-top: 10px; font-size: 0.85rem; color: #a1a1aa;">如果是刚部署，请等待 GitHub Action 首次运行完成。</p>
+            </div>
+          `;
+        }
+      } finally {
+        refreshBtn.disabled = false;
+        refreshBtn.textContent = '刷新';
+        resetCountdown();
+      }
+    }
+
+    // 重置倒计时
+    function resetCountdown() {
+      countdownValue = 300; // 5分钟刷新一次，因为源很多
+      updateCountdown();
+    }
+
+    // 更新倒计时显示
+    function updateCountdown() {
+      countdownEl.textContent = countdownValue + 's';
+    }
+
+    // 开始倒计时
+    function startCountdown() {
+      if (countdownInterval) clearInterval(countdownInterval);
+
+      countdownInterval = setInterval(() => {
+        if (!autoRefresh) return;
+
+        countdownValue--;
+        updateCountdown();
+
+        if (countdownValue <= 0) {
+          fetchNews(false);
+        }
+      }, 1000);
+    }
+
+    // 切换自动刷新
+    function toggleAutoRefresh() {
+      autoRefresh = !autoRefresh;
+      autoRefreshToggle.classList.toggle('active', autoRefresh);
+
+      if (autoRefresh) {
+        resetCountdown();
+        startCountdown();
+      }
+    }
+
+    // 事件监听
+    refreshBtn.addEventListener('click', () => fetchNews(false));
+    autoRefreshToggle.addEventListener('click', toggleAutoRefresh);
+
+    // 筛选按钮
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.source;
+        renderNews();
+      });
+    });
+
+    // 初始化
+    fetchNews();
+    startCountdown();
+  </script>
+</body>
+</html>
