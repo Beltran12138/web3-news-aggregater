@@ -1,0 +1,15 @@
+{
+  "name": "web3-news-aggregator",
+  "version": "1.0.0",
+  "description": "Web3新闻聚合工具 - 聚合律动、链捕手、Foresight News快讯",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.6.1",
+    "cors": "^2.8.5"
+  }
+}
