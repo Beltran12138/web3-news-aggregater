@@ -1,7 +1,42 @@
 {
-  "updateTime": 1771703837307,
+  "updateTime": 1771707706659,
   "count": 110,
   "data": [
+    {
+      "title": "数据：CTSI 24 小时跌超 19%，ZAMA 涨超 14%",
+      "content": "ChainCatcher 消息，据币安现货数据显示，市场出现大幅波动。CTSI 24 小时跌幅达 19.57%，ZAMA 24 小时涨幅 14.23%，并出现探底回升状态。此外，BAR、FIDA、ENSO 和 BREV 均出现“冲高回落”状态，24 小时跌幅分别为 5.46%、18.14%、10.47% 和 11.82%。AWE 和 AXL 则触及本周新低，跌幅分别为 36.83% 和 10.99%。其余代币 SXP 在 5 分钟内小幅上涨 3.18%。",
+      "time": "2026-02-22 04:30:28",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2247139",
+      "tags": [
+        "CTSI",
+        "ZAMA",
+        "市场波动"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1771734628000
+    },
+    {
+      "title": "数据：过去 24 小时全网爆仓 8,363.78 万美元，多单爆仓 1,863.68 万美元，空单爆仓 6,500.11 万美元",
+      "content": "ChainCatcher 消息，据 Coinglass 数据，过去 24 小时全网爆仓 8,363.78 万美元，多单爆仓 1,863.68 万美元，空单爆仓 6,500.11 万美元。其中比特币多单爆仓 228.68 万美元，比特币空单爆仓 2,071 万美元，以太坊多单爆仓 159.89 万美元，以太坊空单爆仓 773.66 万美元。此外，最近 24 小时，全球共有 52,640 人被爆仓，最大单笔爆仓单发生在 Hyperliquid - SOL-USD 价值 850 万美元。",
+      "time": "2026-02-22 04:00:22",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2247138",
+      "tags": [
+        "全网爆仓",
+        "爆仓数据",
+        "BTC",
+        "ETH"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1771732822000
+    },
     {
       "title": "数据：若 ETH 跌破 1,890 美元，主流 CEX 累计多单清算强度将达 7.49 亿美元",
       "content": "ChainCatcher 消息，据 Coinglass 数据显示，若 ETH 跌破 1,890 美元，主流 CEX 累计多单清算强度将达 7.49 亿美元。反之，若 ETH 突破 2,073 美元，主流 CEX 累计空单清算强度将达 5.58 亿美元。",
@@ -303,47 +338,12 @@
       "timestamp": 1771708729000
     },
     {
-      "title": "数据：Hyperliquid 平台鲸鱼当前持仓 29.64 亿美元，多空持仓比为 0.98",
-      "content": "ChainCatcher 消息，据 Coinglass 数据，Hyperliquid 平台鲸鱼当前持仓 29.64 亿美元，多单持仓 14.69 亿美元，持仓占比 49.55%，空单持仓 14.96 亿美元，持仓占比 50.45%。多单盈亏 -1.32 亿美元，空单盈亏 2.28 亿美元。其中，巨鲸地址 0xa5b0..41 在 2010.39 美元价格 15 倍全仓做多 ETH，目前未实现盈亏 -212.37 万美元。",
-      "time": "2026-02-21 21:00:40",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2247116",
-      "tags": [
-        "Hyperliquid",
-        "巨鲸持仓",
-        "BTC",
-        "ETH"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1771707640000
-    },
-    {
-      "title": "42 号文强调严管境外 RWA，中金香港已接触公链及交易所",
-      "content": "ChainCatcher 消息，在《关于进一步防范和处置虚拟资产等相关风险的通知》（42 号文）发布当周末，中金香港相关团队已与多家公链及交易所接触，探讨业务合作可能性。另有公链负责人表示，希望与投行等中介机构探索相关合作机会，蚂蚁、京东等机构亦对政策变化表示关注。报道称，香港为 RWA 境外发行地之一。熟悉监管人士表示，以中国香港资产为底层资产的 RWA 不在 42 号文监管范围内；若涉及境内证券或基金作为底层资产并在境外进行 RWA 发行，则由中国证监会相关部门负责。相关表述强调，对境内资产出境进行 RWA 将实施严格监管，不应解读为鼓励或放松监管信号。",
-      "time": "2026-02-21 20:52:56",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2247115",
-      "tags": [
-        "RWA",
-        "香港",
-        "监管"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1771707176000
-    },
-    {
       "title": "关于矩阵之门（Matrixport）钱包借贷产品展示升级的通知",
       "link": "https://helpcenter.matrixport.com/zh-CN/articles/12254298-%E5%85%B3%E4%BA%8E%E7%9F%A9%E9%98%B5%E4%B9%8B%E9%97%A8-matrixport-%E9%92%B1%E5%8C%85%E5%80%9F%E8%B4%B7%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA%E5%8D%87%E7%BA%A7%E7%9A%84%E9%80%9A%E7%9F%A5",
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "Matrixport美股交易产品正式上线公告",
@@ -351,7 +351,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "【网格交易功能下架通知】（2026.1.5）",
@@ -359,7 +359,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport）升级质押借贷服务的通知",
@@ -367,7 +367,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "Matrixport 合约交易赛获奖名单公示",
@@ -375,7 +375,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport）财富分体系升级的通知",
@@ -383,7 +383,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "矩阵之门（Matrixport）系统更新",
@@ -391,7 +391,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport ）上线合约双向持仓模式的通知",
@@ -399,7 +399,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport）固收产品支持 XAUm 的通知",
@@ -407,7 +407,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "矩阵之门（Matrixport ）合约惊喜活动来袭，最高解锁奖金池达 45,000 USD！",
@@ -415,7 +415,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport）活期存系统更新的通知",
@@ -423,7 +423,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport ）上线固收可质押借款功能的通知",
@@ -431,7 +431,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "Matrixport系统升级通知",
@@ -439,7 +439,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于Prime Brokerage系统资金划转机制优化的公告",
@@ -447,7 +447,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "关于矩阵之门（Matrixport） 上线每日双币产品的通知",
@@ -455,7 +455,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1771703819755
+      "timestamp": 1771707688309
     },
     {
       "title": "Contact",
@@ -463,7 +463,7 @@
       "time": "",
       "source": "HashKey Group",
       "sourceColor": "#121212",
-      "timestamp": 1771703805988
+      "timestamp": 1771707676763
     },
     {
       "title": "Announcement",
@@ -471,7 +471,7 @@
       "time": "",
       "source": "HashKey Group",
       "sourceColor": "#121212",
-      "timestamp": 1771703805988
+      "timestamp": 1771707676763
     },
     {
       "title": "TradePilot 計劃NEW面向精英交易員的跨交易所跟單交易基礎設施",
@@ -479,7 +479,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1771703782109
+      "timestamp": 1771707652960
     },
     {
       "title": "統一交易帳戶新上線跨幣種保證金機制，實現資本效益最大化",
@@ -487,7 +487,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1771703782109
+      "timestamp": 1771707652960
     },
     {
       "title": "公告第一時間獲取 KuCoin 的重要更新和官方新聞",
@@ -495,95 +495,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1771703782109
-    },
-    {
-      "title": "Русский",
-      "link": "https://www.gate.com/ru/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Français (Afrique)",
-      "link": "https://www.gate.com/fr/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Português (Portugal)",
-      "link": "https://www.gate.com/pt/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Bahasa Indonesia",
-      "link": "https://www.gate.com/id/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "بالعربية",
-      "link": "https://www.gate.com/ar/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Українська",
-      "link": "https://www.gate.com/uk/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Português (Brasil)",
-      "link": "https://www.gate.com/pt-br/announcements/lastest",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Gate 双周报",
-      "link": "https://www.gate.com/zh/announcements/dau",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Gate 研究院",
-      "link": "https://www.gate.com/zh/announcements/gate-learn",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "Gate Charity",
-      "link": "https://www.gate.com/zh/announcements/charity",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
-    },
-    {
-      "title": "DEX 活动",
-      "link": "https://www.gate.com/zh/announcements/web3",
-      "time": "",
-      "source": "Gate.io",
-      "sourceColor": "#e91e63",
-      "timestamp": 1771703773658
+      "timestamp": 1771707652960
     },
     {
       "title": "公告平台最新公告，包括上新、活动、升级等",
@@ -591,7 +503,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1771703773657
+      "timestamp": 1771707644429
     },
     {
       "title": "English",
@@ -599,7 +511,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1771703773657
+      "timestamp": 1771707644429
     },
     {
       "title": "Tiếng Việt",
@@ -607,7 +519,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1771703773657
+      "timestamp": 1771707644429
     },
     {
       "title": "Español",
@@ -615,7 +527,95 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1771703773657
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Русский",
+      "link": "https://www.gate.com/ru/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Français (Afrique)",
+      "link": "https://www.gate.com/fr/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Português (Portugal)",
+      "link": "https://www.gate.com/pt/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Bahasa Indonesia",
+      "link": "https://www.gate.com/id/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "بالعربية",
+      "link": "https://www.gate.com/ar/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Українська",
+      "link": "https://www.gate.com/uk/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Português (Brasil)",
+      "link": "https://www.gate.com/pt-br/announcements/lastest",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Gate 双周报",
+      "link": "https://www.gate.com/zh/announcements/dau",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Gate 研究院",
+      "link": "https://www.gate.com/zh/announcements/gate-learn",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "Gate Charity",
+      "link": "https://www.gate.com/zh/announcements/charity",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
+    },
+    {
+      "title": "DEX 活动",
+      "link": "https://www.gate.com/zh/announcements/web3",
+      "time": "",
+      "source": "Gate.io",
+      "sourceColor": "#e91e63",
+      "timestamp": 1771707644429
     },
     {
       "title": "Español (Latinoamérica)",
@@ -623,7 +623,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Français",
@@ -631,7 +631,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Português",
@@ -639,7 +639,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "العربية",
@@ -647,7 +647,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Deutsch",
@@ -655,7 +655,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Español (España)",
@@ -663,7 +663,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Italiano",
@@ -671,7 +671,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Nederlands",
@@ -679,7 +679,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "Polski",
@@ -687,7 +687,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1771703760567
+      "timestamp": 1771707631602
     },
     {
       "title": "币安将上线 OPN USDT 永续合约盘前交易",
@@ -696,7 +696,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "日本 SBI 发行 100 亿日元的链上债券，投资者可获得额外的 XRP 代币奖励",
@@ -705,7 +705,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "比特币收益协议 Structured 停止运营",
@@ -714,7 +714,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "一沉睡 5 年的地址向 Bitfinex 转入 1000 枚比特币",
@@ -723,7 +723,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "IoTeX 确认资产库被盗，但实际损失金额远低于传言金额",
@@ -732,7 +732,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "以太坊流通量自合并以来已增加超 95 万枚",
@@ -741,7 +741,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "USDC 发行量一周内增加约 7 亿枚",
@@ -750,7 +750,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Pump.fun 关联地址再次出售 33.76 亿枚 PUMP",
@@ -759,7 +759,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "以太坊现货 ETF 昨日总净流入 1.72 万美元",
@@ -768,7 +768,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "比特币现货 ETF 昨日总净流入 8804.22 万美元",
@@ -777,7 +777,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Fabric 基金会开放 ROBO 空投注册和审核通道",
@@ -786,7 +786,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Uniswap Labs 推出 7 项新的「技能」以方便 AI 代理执行自动化交易",
@@ -795,7 +795,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Robinhood Ventures 旗下首支基金 RVI 将于纽交所上市",
@@ -804,7 +804,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "OKX「集五福」活动开奖，总奖励达 28 枚比特币",
@@ -813,7 +813,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Sonic Labs CEO 与业务发展总监离职",
@@ -822,7 +822,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "香港黄金交易所已与阿里旗下公司合作开发数字商品区块链",
@@ -831,7 +831,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "美国 SOL 现货 ETF 昨日净流入 377.74 万美元",
@@ -840,7 +840,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "OKX 开启「迎财神」直播活动，6 场红包雨活动将送出 OKB 红包",
@@ -849,7 +849,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "迪拜土地局与 Ctrl Alt 推出房地产代币二级市场",
@@ -858,7 +858,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "HKSFPA 会长：香港虚拟资产监管机构疑似提出「隐形」监管要求",
@@ -867,7 +867,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Ledn 发行以比特币抵押贷款为底层资产的 ABS",
@@ -876,7 +876,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "法国巴黎银行在以太坊上开展新的货币市场基金代币化试点项目",
@@ -885,7 +885,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "SEC 允许经纪商对自有稳定币头寸施加 2% 的估值折扣",
@@ -894,7 +894,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "备受争议的 FOCIL 被列为以太坊 Hegota 版本共识层核心机制",
@@ -903,7 +903,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "GoPlus 推出 AI 智能合约审计平台 DeepScan",
@@ -912,7 +912,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Garrett Jin 过去 12 小时内向币安转入超 1 万枚比特币",
@@ -921,7 +921,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "ProShares 推出的 GENIUS 货币市场 ETF 上市首日创下 170 亿美元交易量的记录",
@@ -930,7 +930,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "美国白宫：将从 24 日起对部分进口商品征收 10% 的临时关税",
@@ -939,7 +939,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "Tether 将停止离岸人民币稳定币 CNHT 的发行和赎回",
@@ -948,7 +948,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "今日恐慌贪婪指数升至 8，市场处于「极度恐慌状态」",
@@ -957,7 +957,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1771703685515
+      "timestamp": 1771707575665
     },
     {
       "title": "16:51\n\t\t\t\t\t\t\t\t\t   Punch市值突破4000万美元，24小时成交额超1920万美元",
@@ -966,7 +966,7 @@
       "link": "https://www.theblockbeats.info/flash/333091",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 22 日，据 GMGN 行情信息，Solana 生态 meme 币 Punch 市值突破 4000 万美元，逼近历史最高点 4400 万美元，24 小时涨幅 28.7%，24 小时成交额超 1920 万美元。",
@@ -975,7 +975,7 @@
       "link": "https://gmgn.ai/sol/token/i_m4TE56o8_NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "16:21\n\t\t\t\t\t\t\t\t\t   特朗普：将全球关税从10%上调到15%",
@@ -984,7 +984,7 @@
       "link": "https://www.theblockbeats.info/flash/333090",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 22 日，特朗普发文表示，昨日美国最高法院对关税的裁决荒谬且拙劣，谨此声明，作为美利坚合众国总统，我将立即把对许多国家征收的 10% 全球关税提高到完全合法且经过法律检验的 15% 水平。这些国家中许多几十年来一直在「剥削」美国，却未受到任何惩罚。在接下来的几个月里，特朗普政府将确定并发布新的合法关税，这将继续我们使美国再次伟大的非凡进程一一比以往任何时候都更加伟大！",
@@ -993,7 +993,7 @@
       "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/179880&sharesource=weibo&title=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E4%BB%8E10%%E4%B8%8A%E8%B0%83%E5%88%B015%&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "15:14\n\t\t\t\t\t\t\t\t\t   Vitalik：可利用个人LLM解决去中心化治理的注意力问题",
@@ -1002,7 +1002,7 @@
       "link": "https://www.theblockbeats.info/flash/333089",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 21 日，以太坊创始人 Vitalik 表示，人工智能治理是是反乌托邦式的：人工智能弱小时会导致混乱，而人工智能强大时则会带来灾难性的后果。但如果人工智能运用得当，就能赋予人类力量，并推动去中心化治理模式的发展。",
@@ -1011,7 +1011,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fwarpcast.com%2Fvitalik.eth%2F0x87dbced4",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "14:55\n\t\t\t\t\t\t\t\t\t   财新：中国境内最早试水RWA案例来自蚂蚁数科",
@@ -1020,7 +1020,7 @@
       "link": "https://www.theblockbeats.info/flash/333088",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 21 日，财新刊文《严管境外 RWA》披露，中国境内最早试水的 RWA 案例来自蚂蚁数科，先后帮助协鑫能科、朗新科技等公司完成几千万乃至数亿元人民币的 RWA 融资。蚂蚁数科将这些公司旗下资产的收益权作为底层资产，通过区块链技术拆分为标准化数字代币，帮助企业发行数字代币进行融资。这些 RWA 项目均为「境内资产一香港确权一全球流通」范式，根据香港监管要求均未向散户投资者开放，仅限机构或专业投资者，且并无二级市场交易。",
@@ -1029,7 +1029,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fweekly.caixin.com%2F2026-02-13%2F102414391.html",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "14:49\n\t\t\t\t\t\t\t\t\t   Michael Saylor下周将在2026年企业比特币大会发表开幕演讲",
@@ -1038,7 +1038,7 @@
       "link": "https://www.theblockbeats.info/flash/333087",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 21 日，Strategy 创始人 Michael Saylor 表示，将于下周出席 2026 年企业比特币大会，并于 2 月 24 日星期二下午 1 点（美东时间）发表开幕主题演讲，其余参会演讲者包括 Strategy 执行副总裁 Andrew Kang、Strive 董事长 Matt Cole、Metaplanet 首席执行官 Simon Gerovich、BitGo 首席执行官 Mike Belshe 等。",
@@ -1047,7 +1047,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fwww.strategy.com%2Fworld26%2Fbitcoin-for-corporations",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "14:48\n\t\t\t\t\t\t\t\t\t   链上HYPE最大多头「Loracle」首次止盈多单，持仓规模降至4620万美元",
@@ -1056,7 +1056,7 @@
       "link": "https://www.theblockbeats.info/flash/333086",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 21 日，据 Coinbob热门地址监控 显示，随着 HYPE 近两日自 27 美元低点反弹，今日重回 30 美元上方，链上 HYPE 最大多头巨鲸「Hyperliquid 早期贡献者 Loracle」开始对 HYPE 多单进行持续减仓止盈。当前其 HYPE 持仓已降至 4620 万美元，均价 24.55 美元，浮盈约 860 万美元，截至发稿仍在持续小额减持。",
@@ -1065,7 +1065,7 @@
       "link": "https://t.me/Coinbob_track_CN",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "14:42\n\t\t\t\t\t\t\t\t\t   Binance将上线OPN USDT永续合约盘前交易",
@@ -1074,7 +1074,7 @@
       "link": "https://www.theblockbeats.info/flash/333085",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 21 日，Binance 将于今日 23：00（北京时间）上线 OPN USDT 永续合约盘前交易。",
@@ -1083,7 +1083,7 @@
       "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/179875&sharesource=weibo&title=Binance%E5%B0%86%E4%B8%8A%E7%BA%BFOPN%20USDT%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6%E7%9B%98%E5%89%8D%E4%BA%A4%E6%98%93&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "14:35\n\t\t\t\t\t\t\t\t\t   智谱就GLM Coding Plan问题致歉并公布补偿方案",
@@ -1092,7 +1092,7 @@
       "link": "https://www.theblockbeats.info/flash/333084",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     },
     {
       "title": "BlockBeats 消息，2 月 21 日，智谱就旗下 AI 编程订阅套餐 GLM Coding Plan 发布致歉信，并公布处理和补偿方案。智谱表示，本次改版主要出现三方面错误：规则透明度不足、GLM-5 灰度节奏太慢、老用户升级机制设计粗糙。GLM-5 发布后流量超出预期，扩容节奏未跟上，不得以将 GLM-5 按照 Max、Pro、Lite 的顺序逐步开放。目前 Max 用户已经全面开放，Pro 用户虽已开放，但高峰期可能会因集群负载较高遇到限流，Lite 用户将会在节后非高峰期逐步灰度开放。针对受到影响的 Lite 和 Pro 用户，智谱支持自主申请退款。",
@@ -1101,7 +1101,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqgVsa17L5Seqw9yXr1iExQ",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1771703677683
+      "timestamp": 1771707567433
     }
   ]
 }
