@@ -1,7 +1,105 @@
 {
-  "updateTime": 1772380410048,
-  "count": 110,
+  "updateTime": 1772387671308,
+  "count": 109,
   "data": [
+    {
+      "title": "数据：BTC 跌破 66000 美元",
+      "content": "ChainCatcher 消息，据 Gate 行情数据，BTC/USDT 现报 $65952.1，24 小时涨幅 1.33%。",
+      "time": "2026-03-02 00:49:22",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2248690",
+      "tags": [
+        "Gate",
+        "BTC"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1772412562000
+    },
+    {
+      "title": "数据：过去 24 小时全网爆仓 3.85 亿美元，主爆空单",
+      "content": "ChainCatcher 消息，据 Coinglass 数据显示，过去 24 小时全网爆仓 3.85 亿美元，其中多单爆仓 1.29 亿美元，空单爆仓 2.56 亿美元。最近 24 小时，全球共有 87,742 人被爆仓，最大单笔爆仓单发生在 Hyperliquid - BTC-USD 价值 1,333.46 万美元。",
+      "time": "2026-03-02 00:04:02",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2248689",
+      "tags": [
+        "爆仓",
+        "Hyperliquid",
+        "BTC-USD"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1772409842000
+    },
+    {
+      "title": "数据：ETH 当前全网 8 小时平均资金费率为 0.0036%",
+      "content": "ChainCatcher 消息，据 Coinglass 数据显示，ETH 当前全网 8 小时平均资金费率为 0.0036%。当前主流交易所中，Binance 费率为 0.0053%，OKX 费率为 0.0077%，Bybit 费率为 0.01%，Gate 费率为 0.0089%。",
+      "time": "2026-03-02 00:00:22",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2248688",
+      "tags": [
+        "资金费率",
+        "ETH"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1772409622000
+    },
+    {
+      "title": "数据：BTC 当前全网 8 小时平均资金费率为 0.003%",
+      "content": "ChainCatcher 消息，据 Coinglass 数据显示，BTC 当前全网 8 小时平均资金费率为 0.003%。当前主流交易所中，Binance 费率为 0.0029%，OKX 费率为 0.0057%，Bybit 费率为 0.0065%，Gate 费率为 0.0036%。",
+      "time": "2026-03-02 00:00:20",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2248687",
+      "tags": [
+        "资金费率",
+        "BTC"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1772409620000
+    },
+    {
+      "title": "BitRing 将以 1 克黄金价格预售 1 克纯金智能戒指，限量 5 万枚并需 KYC 验证",
+      "content": "ChainCatcher 消息，据官方消息，BitRing 宣布将启动智能戒指预售活动，其 1 克纯金智能戒指的售价将与 1 克黄金实时价格持平。本次预售限量 5 万枚，并需通过严格的 KYC 验证，合作交易所将全程监管以确保透明度。\n\n该项目表示，为此预售活动将投入 300 万美元资金补贴，旨在直接连接供应链，减少中间环节与溢价。用户需关注其社交账号并完成指定互动以获取参与资格。",
+      "time": "2026-03-01 23:56:18",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2248686",
+      "tags": [
+        "BitRing",
+        "智能戒指",
+        "KYC"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1772409378000
+    },
+    {
+      "title": "数据：过去 24 小时 CEX 净流出 1124.44 枚 BTC",
+      "content": "ChainCatcher 消息，过去 24 小时 CEX 累计净流出 1124.44 枚 BTC。其中流出量排在前三位的 CEX 如下：\n\nBitfinex，流出 586.69 枚 BTC；\nCoinbase Pro，流出 545.64 枚 BTC；\nBinance，流出 465.29 枚 BTC。\n\n此外，Kraken 流入 570.27 枚 BTC，位列流入榜第一。",
+      "time": "2026-03-01 23:52:01",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2248685",
+      "tags": [
+        "BTC",
+        "CEX"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1772409121000
+    },
     {
       "title": "数据：ETH 全网合约持仓量 24h 增长 6.75%",
       "content": "ChainCatcher 消息，据 Coinglass 数据显示，ETH 全网合约持仓量在过去 24 小时增长 6.75%，当前总持仓量为 257.41 亿美元。其中 Binance 持仓量为 52.48 亿美元，OKX 持仓量为 16.23 亿美元，Bybit 持仓量为 20.31 亿美元，Gate 持仓量为 27.27 亿美元。",
@@ -235,112 +333,12 @@
       "timestamp": 1772399165000
     },
     {
-      "title": "数据：Hyperliquid 平台鲸鱼当前持仓 29.36 亿美元，多空持仓比为 0.97",
-      "content": "ChainCatcher 消息，据 Coinglass 数据，Hyperliquid 平台鲸鱼当前持仓 29.36 亿美元，多单持仓 14.48 亿美元，持仓占比 49.3%，空单持仓 14.89 亿美元，持仓占比 50.7%。多单盈亏 -1.16 亿美元，空单盈亏 2 亿美元。其中，巨鲸地址 0xa5b0..41 在 1991.53 美元价格 15 倍全仓做多 ETH，目前未实现盈亏 -98.24 万美元。",
-      "time": "2026-03-01 21:00:40",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2248668",
-      "tags": [
-        "Hyperliquid",
-        "巨鲸持仓",
-        "BTC",
-        "ETH"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1772398840000
-    },
-    {
-      "title": "MANTRA 代币将于 3 月 3 日完成升级：将进行代码更新并按 1:4 拆分",
-      "content": "ChainCatcher 消息，据官方消息，MANTRA 将于 3 月 3 日完成 OM 代币升级，包括代币代码更改和 1:4 的分割。已将 OM 代币存储在 MANTRA Chain 或支持的交易所的用户无需采取任何行动，系统将自动更新代币代码并将代币数量增加至原来的 4 倍。\n\n官方特别提醒，仍将 OM 代币存储在 Cosmos 区块链（如 Stargaze、Osmosis 等）上的用户面临无法获得 1:4 重新计价的风险。这些用户需立即通过 IBC 跨链桥将 OM 代币转移至 MANTRA Chain。",
-      "time": "2026-03-01 20:46:17",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2248666",
-      "tags": [
-        "MANTRA",
-        "代币升级"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1772397977000
-    },
-    {
-      "title": "中国外交部：中国公民暂勿前往伊朗周边地区",
-      "content": "ChainCatcher 消息，据金十援引新华社报道，美国、以色列对伊朗发动军事行动，伊朗军队对美国在中东地区的军事基地实施打击，伊朗部分周边国家关闭领空、国际航班停飞。已有中国公民在袭击中受伤，部分临时旅行人员滞留当地。\n\n中国外交部提醒中国公民密切关注形势变化，暂勿前往伊朗周边受到军事冲击的国家和地区。已在上述国家和地区的中国公民进一步加强自身安全防范，避免前往军事设施、游行集会等敏感区域。",
-      "time": "2026-03-01 20:44:29",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2248665",
-      "tags": [
-        "中国外交部",
-        "伊朗"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1772397869000
-    },
-    {
-      "title": "比特币和以太坊 3 月历史回报率：平均值分别为 11.28% 和 17.07%",
-      "content": "ChainCatcher 消息，据 Coinglass 数据显示，比特币历史上从 2013 年起的 13 次 “3 月 ”行情中，有 6 次收涨 7 次收跌，最大涨幅出现在 2013 年 3 月，当时月涨幅达 172.76%；最大跌幅发生在 2018 年 3 月，当时月跌幅达 32.85%。2013 年至今，比特币的 “3 月 ”行情平均回报率为 11.28%，回报率中位数为-1.55%。\n\n以太坊历史上从 2016 年起的 11 次 “3 月 ”行情中，有 8 次收涨 3 次收跌，最大涨幅出现在 2017 年 3 月，当时月涨幅达 214.11%；最大跌幅发生在 2018 年 3 月，当时月跌幅达 53.79%。2016 年至今，以太坊的 “3 月 ”行情平均回报率为 17.07%，回报率中位数为-9.33%。",
-      "time": "2026-03-01 20:28:26",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2248664",
-      "tags": [
-        "比特币",
-        "以太坊",
-        "历史回报率"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1772396906000
-    },
-    {
-      "title": "Sam Altman 回应 OpenAI 国有化设想：政企建立紧密合作关系“极其重要”",
-      "content": "ChainCatcher 消息，OpenAI 创始人 Sam Altman 在最新 AMA 结束后发布内容总结，在回应如果美国政府尝试将 OpenAI 或其他 AI 项目国有化会怎样时，Sam Altman 称自己无法预知结果，虽然长期以来构建 AGI 由政府主导或许更合适，但从当前发展轨迹看国有化并非高度可能。\n\n不过，他强调政府与 AI 企业之间建立紧密合作关系“极其重要”，人们对安全层面的“保障”习以为常，但往往低估其背后所需的巨大投入与努力，他认为这在总体上是好事，但仍需更多尊重与理解。",
-      "time": "2026-03-01 20:21:24",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2248663",
-      "tags": [
-        "Sam Altman",
-        "OpenAI",
-        "国有化"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1772396484000
-    },
-    {
-      "title": "Tron Inc 披露增持逾 17.6 万枚 TRX 代币，总持仓突破 6.84 亿枚",
-      "content": "ChainCatcher 消息，据官方消息，纳斯达克上市的 TRX 财库公司 Tron Inc. 披露已以 0.28 美元均价再次购入 176,081 枚 TRX 代币，目前其 TRX 财库总持仓量已突破 6.84 亿枚。",
-      "time": "2026-03-01 19:49:47",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2248662",
-      "tags": [
-        "Tron Inc.",
-        "TRX"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1772394587000
-    },
-    {
       "title": "关于矩阵之门（Matrixport）钱包借贷产品展示升级的通知",
       "link": "https://helpcenter.matrixport.com/zh-CN/articles/12254298-%E5%85%B3%E4%BA%8E%E7%9F%A9%E9%98%B5%E4%B9%8B%E9%97%A8-matrixport-%E9%92%B1%E5%8C%85%E5%80%9F%E8%B4%B7%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA%E5%8D%87%E7%BA%A7%E7%9A%84%E9%80%9A%E7%9F%A5",
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "Matrixport美股交易产品正式上线公告",
@@ -348,7 +346,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "【网格交易功能下架通知】（2026.1.5）",
@@ -356,7 +354,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport）升级质押借贷服务的通知",
@@ -364,7 +362,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "Matrixport 合约交易赛获奖名单公示",
@@ -372,7 +370,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport）财富分体系升级的通知",
@@ -380,7 +378,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "矩阵之门（Matrixport）系统更新",
@@ -388,7 +386,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport ）上线合约双向持仓模式的通知",
@@ -396,7 +394,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport）固收产品支持 XAUm 的通知",
@@ -404,7 +402,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "矩阵之门（Matrixport ）合约惊喜活动来袭，最高解锁奖金池达 45,000 USD！",
@@ -412,7 +410,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport）活期存系统更新的通知",
@@ -420,7 +418,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport ）上线固收可质押借款功能的通知",
@@ -428,7 +426,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "Matrixport系统升级通知",
@@ -436,7 +434,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于Prime Brokerage系统资金划转机制优化的公告",
@@ -444,7 +442,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "关于矩阵之门（Matrixport） 上线每日双币产品的通知",
@@ -452,7 +450,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1772380393190
+      "timestamp": 1772387653787
     },
     {
       "title": "Contact",
@@ -460,7 +458,7 @@
       "time": "",
       "source": "HashKey Group",
       "sourceColor": "#121212",
-      "timestamp": 1772380379736
+      "timestamp": 1772387640849
     },
     {
       "title": "Announcement",
@@ -468,7 +466,7 @@
       "time": "",
       "source": "HashKey Group",
       "sourceColor": "#121212",
-      "timestamp": 1772380379736
+      "timestamp": 1772387640849
     },
     {
       "title": "TradePilot 計劃NEW面向精英交易員的跨交易所跟單交易基礎設施",
@@ -476,7 +474,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1772380354162
+      "timestamp": 1772387615424
     },
     {
       "title": "統一交易帳戶新上線跨幣種保證金機制，實現資本效益最大化",
@@ -484,7 +482,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1772380354162
+      "timestamp": 1772387615424
     },
     {
       "title": "公告第一時間獲取 KuCoin 的重要更新和官方新聞",
@@ -492,7 +490,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1772380354162
+      "timestamp": 1772387615424
     },
     {
       "title": "公告平台最新公告，包括上新、活动、升级等",
@@ -500,7 +498,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "English",
@@ -508,7 +506,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Tiếng Việt",
@@ -516,7 +514,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Español",
@@ -524,7 +522,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Русский",
@@ -532,7 +530,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Français (Afrique)",
@@ -540,7 +538,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Português (Portugal)",
@@ -548,7 +546,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Bahasa Indonesia",
@@ -556,7 +554,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "بالعربية",
@@ -564,7 +562,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Українська",
@@ -572,7 +570,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
       "title": "Português (Brasil)",
@@ -580,87 +578,39 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
-      "title": "Gate 关于4月11号NADA永续市场异常波动的跟进处理情况说明2024-04-11 UTC+899,633",
-      "link": "https://www.gate.com/zh/announcements/article/35864",
+      "title": "Gate 双周报",
+      "link": "https://www.gate.com/zh/announcements/dau",
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
-      "title": "Gate关于清退USDT_HT以及ETHHT的公告2024-03-30 UTC+8114,038",
-      "link": "https://www.gate.com/zh/announcements/article/35551",
+      "title": "Gate 研究院",
+      "link": "https://www.gate.com/zh/announcements/gate-learn",
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
-      "title": "Gate关于12Ships（TSHP）下架的公告2024-03-29 UTC+856,850",
-      "link": "https://www.gate.com/zh/announcements/article/35532",
+      "title": "Gate Charity",
+      "link": "https://www.gate.com/zh/announcements/charity",
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
+      "timestamp": 1772387607193
     },
     {
-      "title": "Gate 关于支持  Ethereum (ETH)  升级计划的公告2024-03-08 UTC+846,914",
-      "link": "https://www.gate.com/zh/announcements/article/34967",
+      "title": "DEX 活动",
+      "link": "https://www.gate.com/zh/announcements/web3",
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1772380346247
-    },
-    {
-      "title": "العربية",
-      "link": "https://www.okx.com/ar/help/section/announcements-latest-announcements",
-      "time": "",
-      "source": "OKX",
-      "sourceColor": "#000000",
-      "timestamp": 1772380333174
-    },
-    {
-      "title": "Deutsch",
-      "link": "https://www.okx.com/de/help/section/announcements-latest-announcements",
-      "time": "",
-      "source": "OKX",
-      "sourceColor": "#000000",
-      "timestamp": 1772380333174
-    },
-    {
-      "title": "Español (España)",
-      "link": "https://www.okx.com/es-es/help/section/announcements-latest-announcements",
-      "time": "",
-      "source": "OKX",
-      "sourceColor": "#000000",
-      "timestamp": 1772380333174
-    },
-    {
-      "title": "Italiano",
-      "link": "https://www.okx.com/it/help/section/announcements-latest-announcements",
-      "time": "",
-      "source": "OKX",
-      "sourceColor": "#000000",
-      "timestamp": 1772380333174
-    },
-    {
-      "title": "Nederlands",
-      "link": "https://www.okx.com/nl/help/section/announcements-latest-announcements",
-      "time": "",
-      "source": "OKX",
-      "sourceColor": "#000000",
-      "timestamp": 1772380333174
-    },
-    {
-      "title": "Polski",
-      "link": "https://www.okx.com/pl/help/section/announcements-latest-announcements",
-      "time": "",
-      "source": "OKX",
-      "sourceColor": "#000000",
-      "timestamp": 1772380333174
+      "timestamp": 1772387607193
     },
     {
       "title": "Español (Latinoamérica)",
@@ -668,7 +618,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1772380333173
+      "timestamp": 1772387595602
     },
     {
       "title": "Français",
@@ -676,7 +626,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1772380333173
+      "timestamp": 1772387595602
     },
     {
       "title": "Português",
@@ -684,268 +634,64 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1772380333173
+      "timestamp": 1772387595602
     },
     {
-      "title": "伊朗和美国代表在联合国安理会紧急会议上言辞交锋",
-      "time": "突发",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
+      "title": "العربية",
+      "link": "https://www.okx.com/ar/help/section/announcements-latest-announcements",
+      "time": "",
+      "source": "OKX",
+      "sourceColor": "#000000",
+      "timestamp": 1772387595602
     },
     {
-      "title": "比特币跌破 67000 USDT",
+      "title": "Deutsch",
+      "link": "https://www.okx.com/de/help/section/announcements-latest-announcements",
+      "time": "",
+      "source": "OKX",
+      "sourceColor": "#000000",
+      "timestamp": 1772387595602
+    },
+    {
+      "title": "Español (España)",
+      "link": "https://www.okx.com/es-es/help/section/announcements-latest-announcements",
+      "time": "",
+      "source": "OKX",
+      "sourceColor": "#000000",
+      "timestamp": 1772387595602
+    },
+    {
+      "title": "Italiano",
+      "link": "https://www.okx.com/it/help/section/announcements-latest-announcements",
+      "time": "",
+      "source": "OKX",
+      "sourceColor": "#000000",
+      "timestamp": 1772387595602
+    },
+    {
+      "title": "Nederlands",
+      "link": "https://www.okx.com/nl/help/section/announcements-latest-announcements",
+      "time": "",
+      "source": "OKX",
+      "sourceColor": "#000000",
+      "timestamp": 1772387595602
+    },
+    {
+      "title": "Polski",
+      "link": "https://www.okx.com/pl/help/section/announcements-latest-announcements",
+      "time": "",
+      "source": "OKX",
+      "sourceColor": "#000000",
+      "timestamp": 1772387595602
+    },
+    {
+      "title": "比特币跌破 66000 USDT",
       "time": "行情异动",
       "isImportant": true,
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "HYPE 突破 31 美元，24 小时涨超 15%",
-      "time": "行情异动",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "伊朗伊斯兰革命卫队称已完成对以色列及当地美军基地的袭击",
-      "time": "突发",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "本周 SOL 现货 ETF 净流入 4444 万美元，XRP 现货 ETF 净流入约 955.5 万美元",
-      "time": "数据",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "本周比特币与以太坊现货 ETF 均实现资金净流入",
-      "time": "比特币",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "Kalshi CEO：Kalshi 会制定规则防止有人从死亡中牟利",
-      "time": "Kalshi",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "伊媒：伊朗总统等三人将领导国家",
-      "time": "伊朗",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "Vitalik：以太坊账户抽象协议 EIP-8141 将在 Hegota 升级后发布",
-      "time": "项目重要进展",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "USDC 发行量一周内增加约 13 亿枚",
-      "time": "Circle",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "Circle 在 Cardano 上推出 USDCx",
-      "time": "Circle",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "昨日 Hyperliquid 上白银合约交易量超过大宗市场白银期货",
-      "time": "数据追踪",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "美以在哈梅内伊举行会议时发动袭击，伊朗革命卫队誓言将对此进行报复",
-      "time": "重磅",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "「Aave Will Win」提案以约 53% 的支持率通过民意投票",
-      "time": "Aave",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "比特币升破 68000 USDT",
-      "time": "行情异动",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "过去 24 小时全网爆仓约 4.4 亿美元",
-      "time": "数据追踪",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "以太坊升破 2000 USDT",
-      "time": "行情异动",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "Polymarket 置顶了数个美伊战争有关的预测市场",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "知情人士：沙特和以色列的施压促使特朗普下令攻击伊朗",
-      "time": "重磅",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "知情人士：美军对伊朗的袭击依然使用了 Anthropic 的 AI 工具",
-      "time": "伊朗",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "伊朗国家媒体：伊朗最高领袖哈梅内伊遇害",
-      "time": "重磅",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "阿富汗首都喀布尔传出爆炸声",
-      "time": "突发",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "美国国会部分成员计划限制特朗普对伊朗的行动",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "今日恐慌贪婪指数升至 14，市场处于「极度恐慌状态」",
-      "time": "数据追踪",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "比特币升破 67000 USDT",
-      "time": "行情异动",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "比特币升破 66000 USDT",
-      "time": "行情异动",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "比特币升破 65000 USDT",
-      "time": "行情异动",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "某巨鲸于 2 小时前向币安转入 30 枚 WBTC，若卖出将获利 112.5 万美元",
-      "time": "币安",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
-    },
-    {
-      "title": "霍尔木兹海峡油轮运输陷入停滞",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1772380281769
+      "timestamp": 1772387547160
     },
     {
       "title": "NEAR 在 NEARCON 期间宣布推出多款 AI 及 crypto 产品",
@@ -954,16 +700,250 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1772380281768
+      "timestamp": 1772387547160
     },
     {
-      "title": "15:51\n\t\t\t\t\t\t\t\t\t   比特币提币情绪延续，过去24小时CEX净流出1124.44枚BTC",
-      "time": "",
+      "title": "伊朗和美国代表在联合国安理会紧急会议上言辞交锋",
+      "time": "突发",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "比特币跌破 67000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "HYPE 突破 31 美元，24 小时涨超 15%",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "伊朗伊斯兰革命卫队称已完成对以色列及当地美军基地的袭击",
+      "time": "突发",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "本周 SOL 现货 ETF 净流入 4444 万美元，XRP 现货 ETF 净流入约 955.5 万美元",
+      "time": "数据",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/334008",
-      "source": "BlockBeats",
-      "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "本周比特币与以太坊现货 ETF 均实现资金净流入",
+      "time": "比特币",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "Kalshi CEO：Kalshi 会制定规则防止有人从死亡中牟利",
+      "time": "Kalshi",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "伊媒：伊朗总统等三人将领导国家",
+      "time": "伊朗",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "Vitalik：以太坊账户抽象协议 EIP-8141 将在 Hegota 升级后发布",
+      "time": "项目重要进展",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "USDC 发行量一周内增加约 13 亿枚",
+      "time": "Circle",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "Circle 在 Cardano 上推出 USDCx",
+      "time": "Circle",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "昨日 Hyperliquid 上白银合约交易量超过大宗市场白银期货",
+      "time": "数据追踪",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "美以在哈梅内伊举行会议时发动袭击，伊朗革命卫队誓言将对此进行报复",
+      "time": "重磅",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "「Aave Will Win」提案以约 53% 的支持率通过民意投票",
+      "time": "Aave",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "比特币升破 68000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "过去 24 小时全网爆仓约 4.4 亿美元",
+      "time": "数据追踪",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "以太坊升破 2000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "Polymarket 置顶了数个美伊战争有关的预测市场",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "知情人士：沙特和以色列的施压促使特朗普下令攻击伊朗",
+      "time": "重磅",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "知情人士：美军对伊朗的袭击依然使用了 Anthropic 的 AI 工具",
+      "time": "伊朗",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "伊朗国家媒体：伊朗最高领袖哈梅内伊遇害",
+      "time": "重磅",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "阿富汗首都喀布尔传出爆炸声",
+      "time": "突发",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "美国国会部分成员计划限制特朗普对伊朗的行动",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "今日恐慌贪婪指数升至 14，市场处于「极度恐慌状态」",
+      "time": "数据追踪",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "比特币升破 67000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "比特币升破 66000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
+    },
+    {
+      "title": "日历 3 月 1 日 \n      查看更多\n      \n        Chainlink Convergence 黑客松活动提交截止日期为 3 月 1 日\n      \n        Steak 'n Shake 将从 3 月 1 日起向其小时工发布每小时 0.21 美元的比特币激励计划\n      \n        香港金管局希望在 3 月发出首批稳定币牌照",
+      "time": "3 月 1 日",
+      "isImportant": false,
+      "link": "https://foresightnews.pro/calendar",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1772387547160
     },
     {
       "title": "BlockBeats 消息，3 月 1 日，据 Coinglass 数据，过去 24 小时 CEX 累计净流出 1124.44 枚 BTC。其中流出量排在前三位的 CEX 如下：",
@@ -972,7 +952,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fwww.coinglass.com%2Fzh%2FBalance",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "15:25\n\t\t\t\t\t\t\t\t\t   特朗普谈及霍尔木兹海峡和石油：什么都不担心",
@@ -981,7 +961,7 @@
       "link": "https://www.theblockbeats.info/flash/334007",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "BlockBeats 消息，3 月 1 日，据福克斯新闻，美国总统特朗普谈及霍尔木兹海峡和石油时称，什么都不担心。(金十)",
@@ -990,7 +970,7 @@
       "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/180876&sharesource=weibo&title=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E5%8F%8A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%92%8C%E7%9F%B3%E6%B2%B9%EF%BC%9A%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%8B%85%E5%BF%83&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "15:13\n\t\t\t\t\t\t\t\t\t   Michael Saylor再次发布比特币Tracker信息，或暗示再次增持BTC",
@@ -999,7 +979,7 @@
       "link": "https://www.theblockbeats.info/flash/334006",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "BlockBeats 消息，3 月 1 日，Strategy 创始人 Michael Saylor 再次发布比特币 Tracker 相关信息。",
@@ -1008,7 +988,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fx.com%2Fsaylor%2Fstatus%2F2028126442211668329",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "14:58\n\t\t\t\t\t\t\t\t\t   美联储3月降息25个基点的概率仅为7.4%",
@@ -1017,7 +997,7 @@
       "link": "https://www.theblockbeats.info/flash/334005",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "BlockBeats 消息，3 月 1 日，据 CME「美联储观察」，美联储 3 月降息 25 个基点的概率仅为 7.4%，维持不变的概率为 92.6%。",
@@ -1026,7 +1006,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fwww.cmegroup.com%2Fcn-s%2Fmarkets%2Finterest-rates%2Fcme-fedwatch-tool.html",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "14:45\n\t\t\t\t\t\t\t\t\t   Opinion：已完成S1快照，并上线S2",
@@ -1035,7 +1015,7 @@
       "link": "https://www.theblockbeats.info/flash/334004",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "BlockBeats 消息，3 月 1 日，BSC 生态预测平台 Opinion 发文表示，「S1 的快照已完成，S2 现已正式上线。",
@@ -1044,7 +1024,7 @@
       "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fx.com%2Fopinionlabsxyz%2Fstatus%2F2028118672662020457",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "14:16\n\t\t\t\t\t\t\t\t\t   分析师：黄金将重新成为首选避险资产",
@@ -1053,7 +1033,7 @@
       "link": "https://www.theblockbeats.info/flash/334003",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
       "title": "BlockBeats 消息，3 月 1 日，KCM Trade 首席市场分析师 Tim Waterer 表示，周一市场开盘时，黄金的需求可能高于往常。考虑到冲突可能持续多久、哪些其他国家可能被卷入以及通胀担忧等风险，预计黄金将重新担当起首选避险资产的角色。股市和其他风险资产可能会遭到抛售，投资者将寻找最佳的资金存放处，而黄金很可能会位居该列表的首位。(金十)",
@@ -1062,43 +1042,52 @@
       "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/180872&sharesource=weibo&title=%E5%88%86%E6%9E%90%E5%B8%88%EF%BC%9A%E9%BB%84%E9%87%91%E5%B0%86%E9%87%8D%E6%96%B0%E6%88%90%E4%B8%BA%E9%A6%96%E9%80%89%E9%81%BF%E9%99%A9%E8%B5%84%E4%BA%A7&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536674
     },
     {
-      "title": "14:08\n\t\t\t\t\t\t\t\t\t   伊朗外长：此阶段无意关闭霍尔木兹海峡，新的最高领袖或在一两天内选出",
+      "title": "16:15\n\t\t\t\t\t\t\t\t\t   特朗普：计划与伊朗政权进行新谈判",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/334002",
+      "link": "https://www.theblockbeats.info/flash/334010",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536673
     },
     {
-      "title": "BlockBeats 消息，3 月 1 日，伊朗外长表示，伊朗在此阶段没有关闭霍尔木兹海峡的意图，也没有计划干扰那里的航行。新的最高领袖可能在一两天内选出，政权更迭是不可能的。(金十)",
+      "title": "BlockBeats 消息，3 月 2 日，据《大西洋月刊》，美国总统特朗普表示，伊朗希望对话，他也同意对话。计划与伊朗政权进行新谈判。在谈及与伊朗谈判的时机时特朗普表示，「我不能告诉你。」特朗普对是否长期介入以支持伊朗「抗议活动」态度模糊。(金十)",
       "time": "",
       "isImportant": false,
-      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/180871&sharesource=weibo&title=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E6%AD%A4%E9%98%B6%E6%AE%B5%E6%97%A0%E6%84%8F%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%EF%BC%8C%E6%96%B0%E7%9A%84%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%88%96%E5%9C%A8%E4%B8%80%E4%B8%A4%E5%A4%A9%E5%86%85%E9%80%89%E5%87%BA&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/180879&sharesource=weibo&title=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A1%E5%88%92%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83%E8%BF%9B%E8%A1%8C%E6%96%B0%E8%B0%88%E5%88%A4&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536673
     },
     {
-      "title": "13:58\n\t\t\t\t\t\t\t\t\t   伊朗向美航母发射4枚导弹",
+      "title": "16:03\n\t\t\t\t\t\t\t\t\t   过去24小时全网爆仓3.85亿美元，主爆空单",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/334000",
+      "link": "https://www.theblockbeats.info/flash/334009",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536673
     },
     {
-      "title": "BlockBeats 消息，3 月 1 日，当地时间 3 月 1 日下午，伊朗伊斯兰革命卫队公共关系部发布 7 号公告。公告称，美军「亚伯拉罕·林肯」号航空母舰遭到伊朗四枚弹道导弹袭击。公告说，伊朗武装部队对敌方军事力量的强力打击已进入新阶段，陆地和海洋都将成为「侵略者的坟场。」（CCTV 国际时讯）",
+      "title": "BlockBeats 消息，3 月 2 日，据 Coinglass 数据显示，过去 24 小时全网爆仓 3.85 亿美元，其中多单爆仓 1.29 亿美元，空单爆仓 2.56 亿美元。",
       "time": "",
       "isImportant": false,
-      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/180869&sharesource=weibo&title=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%8F%91%E5%B0%844%E6%9E%9A%E5%AF%BC%E5%BC%B9&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
+      "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fwww.coinglass.com%2Fzh%2Fliquidations",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1772380272859
+      "timestamp": 1772387536673
+    },
+    {
+      "title": "15:51\n\t\t\t\t\t\t\t\t\t   比特币提币情绪延续，过去24小时CEX净流出1124.44枚BTC",
+      "time": "",
+      "isImportant": false,
+      "link": "https://www.theblockbeats.info/flash/334008",
+      "source": "BlockBeats",
+      "sourceColor": "#1E88E5",
+      "timestamp": 1772387536673
     }
   ]
 }
