@@ -1,347 +1,337 @@
 {
-  "updateTime": 1774256775521,
-  "count": 108,
+  "updateTime": 1774267837518,
+  "count": 109,
   "data": [
     {
-      "title": "BlockSec：PancakeSwap BCE-USDT 池遭攻击，损失近 68 万美元",
-      "content": "ChainCatcher 消息，据 BlockSec 监测，BSC 链上的 PancakeSwap BCE-USDT 池数小时前遭遇攻击，损失约 67.9 万美元。根本原因在于 BCE 代币的销毁机制存在缺陷。\n\n攻击者部署了两个恶意合约，绕过买卖限制并触发池内代币销毁，通过操纵池中储备从 BCE-USDT 池中提取约 67.9 万美元获利。",
-      "time": "2026-03-23 17:00:59",
+      "title": "伊朗高级安全官员：特朗普的相关言论为心理战，伊朗将继续做出回应并捍卫国家",
+      "content": "ChainCatcher 消息，据伊朗塔斯尼姆通讯社报道，一名伊朗高级安全官员表示，特朗普的相关言论为心理战。伊朗迄今未进行过任何谈判，目前也不存在任何谈判。伊朗将继续做出回应并捍卫国家。霍尔木兹不会通过心理战恢复到战前状态。",
+      "time": "2026-03-23 20:07:17",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253796",
+      "link": "https://www.chaincatcher.com/article/2253860",
       "tags": [
-        "PancakeSwap",
-        "BCE",
-        "攻击"
+        "伊朗",
+        "特朗普"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774285259000
+      "timestamp": 1774296437000
     },
     {
-      "title": "欧洲斯托克 600 指数跌幅超 10%，进入技术性回调区间",
-      "content": "ChainCatcher 消息，据金十报道，欧洲斯托克 600 指数较收盘历史高点跌幅已超过 10%，目前正步入技术性回调区间。",
-      "time": "2026-03-23 16:55:43",
+      "title": "Strategy 上周斥资 7660 万美元增持 1031 枚比特币",
+      "content": "ChainCatcher 消息，据 Strategy 官方公告，该公司于近日再度增持 1,031 枚比特币，耗资约 7,660 万美元，均价约 74,326 美元/枚。\n\n截至 2026 年 3 月 22 日，Strategy 累计持有 762,099 枚比特币，总持仓成本约 576.9 亿美元，平均买入价约 75,694 美元/枚。",
+      "time": "2026-03-23 20:04:45",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253795",
+      "link": "https://www.chaincatcher.com/article/2253859",
       "tags": [
-        "技术性回调",
-        "欧洲斯托克600指数"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774284943000
-    },
-    {
-      "title": "数据：587.13 枚 BTC 从匿名地址转出，经中转后流入 Nobitex.ir",
-      "content": "ChainCatcher 消息，据 Arkham 数据，在 16:30，587.13 枚 BTC（价值约 4001 万美元）从一匿名地址（bc1qmwy2h0d...开头）转出至另一匿名地址（bc1q4ekd8q...开头）。随后，该地址将部分 BTC（3 枚）转移至 Nobitex.ir。",
-      "time": "2026-03-23 16:40:12",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253794",
-      "tags": [
-        "BTC",
-        "转账",
-        "Nobitex"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774284012000
-    },
-    {
-      "title": "Byreal 上线 AutoSwap、Compound、Rebalance 流动性管理功能",
-      "content": "ChainCatcher 消息，Byreal 最新推出三项流动性管理新功能：\n\n\n1. AutoSwap 支持用户单币存入即可开启 LP 仓位，系统自动完成代币兑换及最优路径执行，无需手动操作；\n2. Compound 功能允许用户一键将 LP 手续费收益自动复投至当前仓位，实现收益的持续滚动；\n3. Rebalance 功能支持一键将流动性调整至新价格区间，降低仓位偏离风险，保持持续做市收益。\n\n\nByreal 为 Bybit 孵化的 Solana 原生 DEX，主打 RWA 资产链上交易及 Copy-Farming 机制，AI Agent 友好。此次三项更新均以降低 LP 操作门槛为核心目标。\n",
-      "time": "2026-03-23 16:39:56",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253793",
-      "tags": [
-        "Byreal",
-        "AutoSwap",
-        "Compound",
-        "Rebalance",
-        "流动性管理"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774283996000
-    },
-    {
-      "title": "数据：过去 24h Okx 净流出 23 亿 USDT",
-      "content": "ChainCatcher 消息，据 Coinglass 数据显示，Okx 在过去 24 小时内净流出 23 亿 USDT。",
-      "time": "2026-03-23 16:38:03",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253791",
-      "tags": [
-        "Okx",
-        "大额转账",
-        "USDT"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774283883000
-    },
-    {
-      "title": "数据：过去 24 小时全网爆仓 4.07 亿美元，多单爆仓 3.13 亿美元，空单爆仓 9,377.16 万美元",
-      "content": "ChainCatcher 消息，据 Coinglass 数据，过去 24 小时全网爆仓 4.07 亿美元，多单爆仓 3.13 亿美元，空单爆仓 9,377.16 万美元。其中比特币多单爆仓 9,859.43 万美元，比特币空单爆仓 2,189.38 万美元，以太坊多单爆仓 6,517.51 万美元，以太坊空单爆仓 1,473.15 万美元。此外，最近 24 小时，全球共有 173,947 人被爆仓，最大单笔爆仓单发生在 Binance - XAUUSDT 价值 710.24 万美元。",
-      "time": "2026-03-23 16:30:26",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253789",
-      "tags": [
-        "全网爆仓",
-        "爆仓数据",
-        "BTC",
-        "ETH"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774283426000
-    },
-    {
-      "title": "ZachXBT 揭露社交媒体账号协作推广加密诈骗项目，涉案规模达数十万美元",
-      "content": "ChainCatcher 消息，链上侦探 ZachXBT 今日披露，一个由至少 10 个以上账号组成的协同网络，正通过制造战争等相关的恐慌性内容，在社交平台 X 上获取流量，并最终导流至加密诈骗项目。\n\n该网络通过购买已有粉丝基础的账号，频繁发布耸动“末日论”内容，并借助多个小号互相转发放大传播，迅速获得数百万浏览量及大量互动。调查显示，这些账号还利用 AI 生成虚假人物形象，例如伪造“亚洲版 Mario Nawfal”来增强可信度。在获取流量后，相关账号会推广虚假空投活动或加密项目骗局，包括在 2026 年 2 月 22 日集中推广名为 ORAMAMA 的拉盘出货项目，随后不再提及。\n\n链上数据表明，该操作已为背后团队带来六位数收益。同时，大量真实大号在评论与转发中无意参与互动，进一步放大了内容传播效果。ZachXBT 警告称，此类“流量农场+AI 内容+加密诈骗”的组合模式已高度成熟，且极易复制。如果类似机制被更高层级组织利用，其潜在影响将远超金融诈骗范畴，甚至可能演变为舆论操纵工具。\n\nZachXBT 呼吁平台加强监管，对此类操纵行为实施封禁及法律追责。同时建议用户在参与互动前仔细核查账号历史与信息来源，以应对日益泛滥的虚假内容与“互动诱饵”现象。",
-      "time": "2026-03-23 16:13:11",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253786",
-      "tags": [
-        "ZachXBT",
-        "加密诈骗",
-        "AI 内容"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774282391000
-    },
-    {
-      "title": "数据：354.99 枚 BTC 从匿名地址转出，经中转后流入 Wintermute",
-      "content": "ChainCatcher 消息，据 Arkham 数据，在 16:06，354.99 枚 BTC（价值约 2427 万美元）从一匿名地址（bc1qvzjf9...开头）转出至多个地址，其中 255.98 枚 BTC 转入另一匿名地址（bc1qlmf9...开头）。随后，该地址将 98.99 枚 BTC 转移至 Wintermute。",
-      "time": "2026-03-23 16:10:10",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253784",
-      "tags": [
-        "BTC",
-        "Wintermute",
-        "匿名地址"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774282210000
-    },
-    {
-      "title": "数据：麻吉大哥再遭清算，账户目前剩余 30268 美元",
-      "content": "ChainCatcher 消息，据 Hyperbot 数据显示，麻吉大哥再次被清算，其账户目前仅余 30268 美元，该地址累计经历 335 次清算。",
-      "time": "2026-03-23 16:08:02",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253783",
-      "tags": [
-        "麻吉大哥",
-        "账户",
-        "清算"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774282082000
-    },
-    {
-      "title": "美股科技股盘前普遍走低，美光科技下跌 4%",
-      "content": "ChainCatcher 消息，据 Gate 行情数据显示，美股科技股盘前普遍走低，美光科技下跌 4%，特斯拉跌 1.6%，英伟达跌 1%，甲骨文跌 2.3%。",
-      "time": "2026-03-23 16:04:44",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253782",
-      "tags": [
-        "美股",
-        "科技股",
-        "下跌"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774281884000
-    },
-    {
-      "title": "数据：ETH 当前全网 8 小时平均资金费率为 0.0009%",
-      "content": "ChainCatcher 消息，据 Coinglass 数据显示，ETH 当前全网 8 小时平均资金费率为 0.0009%。当前主流交易所中，Binance 费率为 -0.0002%，OKX 费率为 0.0029%，Bybit 费率为 0.0002%，Gate 费率为 0.0028%。",
-      "time": "2026-03-23 16:00:24",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253780",
-      "tags": [
-        "资金费率",
-        "ETH"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774281624000
-    },
-    {
-      "title": "数据：BTC 当前全网 8 小时平均资金费率为 -0.001%",
-      "content": "ChainCatcher 消息，据 Coinglass 数据显示，BTC 当前全网 8 小时平均资金费率为 -0.001%。当前主流交易所中，Binance 费率为 -0.0028%，OKX 费率为 -0.0008%，Bybit 费率为 0.001%，Gate 费率为 -0.004%。",
-      "time": "2026-03-23 16:00:20",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253779",
-      "tags": [
-        "资金费率",
+        "Strategy",
         "BTC"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774281620000
+      "timestamp": 1774296285000
     },
     {
-      "title": "韩国加密市场流动性下滑，投资者转向股市",
-      "content": "ChainCatcher 消息，据 Allium Labs 链上数据，韩国五大加密交易所（Upbit、Bithumb、Coinone、Korbit、GOPAX）关联钱包的稳定币余额自 2025 年 7 月至 2026 年 3 月中旬大幅缩水约 55%，从 5.75 亿美元降至约 1.88 亿美元。\n\n资金外流与韩元走弱高度相关，韩元兑美元汇率跌破 1,500 关口后，抛售明显加速。DNTV Research 创始人 Bradley Park 分析，投资者可能在高汇率时段抛售美元挂钩稳定币，换回韩元后转投国内资产。\n\n同时，券商存款从 3 月初约 131 万亿韩元降至约 112 万亿韩元。Artemis 数据显示亚洲整体稳定币交易量同期上升，说明此次资金撤离是韩国市场的独立现象，而不是区域性趋势。",
-      "time": "2026-03-23 15:58:50",
+      "title": "数据：BTC 跌破 70000 美元",
+      "content": "ChainCatcher 消息，据 Gate 行情数据，BTC/USDT 现报 $69990.3，24 小时涨幅 2.53%。",
+      "time": "2026-03-23 20:01:04",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253778",
+      "link": "https://www.chaincatcher.com/article/2253858",
       "tags": [
-        "韩国",
-        "加密市场",
-        "流动性",
-        "稳定币"
+        "Gate",
+        "BTC"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774281530000
+      "timestamp": 1774296064000
     },
     {
-      "title": "瑞典比特币财库公司 H100 将通过收购两家公司将其比特币持仓增至 3501 枚",
-      "content": "ChainCatcher 消息，据官方消息，瑞典上市公司 H100 Group 已签署意向书，拟通过全股票交易收购挪威公司 Moonshot AS 和 Never Say Die AS。该交易采用“比特币对换比特币”结构，不涉及现金对价，不稀释现有股东的比特币持仓比例。\n\n交易完成后，H100 的比特币持仓将从目前的 1051 枚增至约 3501 枚。",
-      "time": "2026-03-23 15:44:16",
+      "title": "数据：152.78 枚 BTC 从匿名地址转出，经中转后转至另一匿名地址",
+      "content": "ChainCatcher 消息，据 Arkham 数据，在 19:51，152.78 枚 BTC（价值约 1079 万美元）从一匿名地址（bc1q4vr2q...开头）转出至另一匿名地址（bc1qtn04a...开头）。",
+      "time": "2026-03-23 20:00:14",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253777",
+      "link": "https://www.chaincatcher.com/article/2253857",
       "tags": [
-        "比特币",
-        "Moonshot AS",
-        "Never Say Die AS"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774280656000
-    },
-    {
-      "title": "Hyperliquid 周交易量突破 150 亿美元，大宗商品市场主导链上衍生品交易",
-      "content": "ChainCatcher 消息，据 Financefeeds 报道，去中心化衍生品平台 Hyperliquid 过去一周交易量达约 150 亿美元，其中大宗商品相关合约成为交易量主要驱动力。\n\n原油、黄金和白银等大宗商品永续合约持续位列最活跃交易市场，原油永续合约在部分交易日 24 小时交易量超过 12 亿美元，白银永续合约日交易量约 12.5 亿美元。平台总日交易量曾单日触及 150 亿美元，非加密市场交易占比显著提升。\n\nHyperliquid 的 HIP-3 框架允许创建挂钩大宗商品、股票、指数等各类资产的永续合约，推动交易活动从比特币和以太坊等传统加密对快速多元化。",
-      "time": "2026-03-23 15:44:00",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253776",
-      "tags": [
-        "Hyperliquid",
-        "大宗商品",
-        "永续合约"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774280640000
-    },
-    {
-      "title": "高盛：预计欧洲央行将在 2026 年 4 月和 6 月各加息 25 个基点",
-      "content": "ChainCatcher 消息，据金十数据报道，高盛目前预计欧洲央行将在 2026 年 4 月和 6 月各加息 25 个基点，此前预测为今年利率保持不变。此次的调整与摩根大通和巴克莱银行上周的预测一致，这两家银行也预计欧洲央行将在 4 月采取行动。\n\n高盛指出，中东地区的冲突带来了通胀风险，而能源价格的上涨则是主要的困扰因素。",
-      "time": "2026-03-23 15:41:06",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253775",
-      "tags": [
-        "高盛",
-        "欧洲央行",
-        "加息"
-      ],
-      "source": "ChainCatcher",
-      "sourceColor": "#FF6B35",
-      "timestamp": 1774280466000
-    },
-    {
-      "title": "数据：Hyperliquid 平台鲸鱼当前持仓 33.15 亿美元，多空持仓比为 1.01",
-      "content": "ChainCatcher 消息，据 Coinglass 数据，Hyperliquid 平台鲸鱼当前持仓 33.15 亿美元，多单持仓 16.65 亿美元，持仓占比 50.24%，空单持仓 16.5 亿美元，持仓占比 49.76%。多单盈亏 -1.15 亿美元，空单盈亏 1.47 亿美元。其中，巨鲸地址 0xa5b0..41 在 2148.7 美元价格 15 倍全仓做多 ETH，目前未实现盈亏 -823.95 万美元。",
-      "time": "2026-03-23 15:30:41",
-      "isImportant": false,
-      "isHot": false,
-      "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253772",
-      "tags": [
-        "Hyperliquid",
-        "巨鲸持仓",
         "BTC",
+        "转账"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774296014000
+    },
+    {
+      "title": "Core Scientific 宣布获得摩根大通追加 5 亿美元融资承诺",
+      "content": "ChainCatcher 消息，比特币矿企 Core Scientific 宣布获得摩根大通追加 5 亿美元融资承诺，使其信贷额度总规模扩大至 10 亿美元，其中此前 5 亿美元由摩根士丹利提供。公司表示相关资金将用于数据中心建设、设备采购及能源基础设施，以支持高密度托管及 AI 相关业务发展。",
+      "time": "2026-03-23 19:54:01",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253856",
+      "tags": [
+        "Core Scientific",
+        "融资",
+        "数据中心建设"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774295641000
+    },
+    {
+      "title": "Bitget 发布全新品牌影片，诠释“一站式链接全球 Alpha”交易范式",
+      "content": "ChainCatcher 消息，Bitget 近日发布全新品牌影片，围绕“一站式链接全球 Alpha”的核心主张，展示了其全景交易所 UEX 所打造的一体化交易环境。\n\n通过统一账户，用户可同时参与加密货币、股票、外汇、大宗商品及贵金属等多类资产交易。影片指出，随着利率、商品、货币与股票市场之间的关联性不断增强，用户的交易行为也正从单一市场走向跨资产配置，多市场联动已成为新的交易趋势。\n\nBitget CEO Gracy Chen 表示，随着用户交易行为从单一市场转向跨资产配置，平台形态也需要同步进化。UEX 依托统一账户体系，整合传统金融与加密资产，并结合统一保证金机制、流动性基础设施及 AI 交易工具，提升多资产交易效率。此次品牌影片的发布，也进一步体现了 Bitget 推动交易方式向更加统一、高效的方向演进。\n",
+      "time": "2026-03-23 19:53:56",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253855",
+      "tags": [
+        "Bitget",
+        "UEX",
+        "跨资产配置",
+        "多市场联动"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774295636000
+    },
+    {
+      "title": "Ledger 联创遭绑架案告破，西班牙警方逮捕最后一名在逃嫌疑人",
+      "content": "ChainCatcher 消息，据 DL News 报道，法国 Ledger 联合创始人 David Balland 于 2025 年 1 月遭犯罪团伙绑架，歹徒切断其手指并勒索价值 1,150 万美元的比特币。事发后警方迅速行动，救出 Balland 及其伴侣，并在现场逮捕 10 名嫌疑人，但一名嫌疑人趁乱逃往西班牙。经西法两国警方联合追捕数周，该嫌疑人最终在西班牙贝纳尔马德纳落网。\n\n目前，富恩希罗拉法院正依据欧盟欧洲逮捕令协议推进引渡程序，法国当局确认已识别并逮捕全部涉案人员。",
+      "time": "2026-03-23 19:53:48",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253854",
+      "tags": [
+        "Ledger",
+        "绑架事件",
+        "西班牙"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774295628000
+    },
+    {
+      "title": "伊朗媒体：没有与特朗普进行任何直接或间接的接触",
+      "content": "ChainCatcher 消息，伊朗法尔斯通讯社表示，伊朗没有与特朗普进行任何直接或间接的接触，并声称特朗普在威胁攻击西亚能源设施后撤回了访问。\n\n伊朗外交部则指责美国总统在地区缓和局势的努力进行期间拖延时间。",
+      "time": "2026-03-23 19:52:13",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253853",
+      "tags": [
+        "伊朗",
+        "特朗普"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774295533000
+    },
+    {
+      "title": "伊朗驻阿富汗大使馆：伊朗警告后特朗普放弃袭击能源设施计划",
+      "content": "ChainCatcher 消息，据金十报道，伊朗驻阿富汗大使馆表示，在伊朗发出坚定警告后，特朗普已从袭击能源基础设施的计划中退却。",
+      "time": "2026-03-23 19:51:34",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253852",
+      "tags": [
+        "伊朗",
+        "阿富汗",
+        "特朗普"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774295494000
+    },
+    {
+      "title": "特朗普放软话后，有船只开始通过霍尔木兹海峡",
+      "content": "ChainCatcher 消息，据金十报道，特朗普刚刚发表讲话，推迟五天对伊军事打击。市场情绪有所回暖，有船只正在通过霍尔木兹海峡，当前实时监测数量为 6 艘。",
+      "time": "2026-03-23 19:43:45",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253851",
+      "tags": [
+        "特朗普",
+        "霍尔木兹海峡"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774295025000
+    },
+    {
+      "title": "数据：ETH 全网合约持仓量 24h 增长 5.28%",
+      "content": "ChainCatcher 消息，据 Coinglass 数据显示，ETH 全网合约持仓量在过去 24 小时增长 5.28%，当前总持仓量为 293.01 亿美元。其中 Binance 持仓量为 64.87 亿美元，OKX 持仓量为 18.64 亿美元，Bybit 持仓量为 20.33 亿美元，Gate 持仓量为 33.73 亿美元。",
+      "time": "2026-03-23 19:42:02",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253850",
+      "tags": [
+        "合约持仓",
         "ETH"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774279841000
+      "timestamp": 1774294922000
     },
     {
-      "title": "现货黄金跌至 4100 美元下方，本月累计跌幅已超 22%",
-      "content": "ChainCatcher 消息，据 Gate 行情数据显示，现货黄金自去年 11 月 24 日以来首次跌至 4100 美元/盎司下方，日内重挫 8.6% 或 388 美元，已连续失守多道整数关口，本月黄金累计跌幅已超 22%。",
-      "time": "2026-03-23 15:27:21",
+      "title": "数据：Mt. Gox 今日转移价值 500 美元比特币，为其 4 个月来首次操作",
+      "content": "ChainCatcher 消息，据 Arkham 监测，门头沟 Mt. Gox 今天转移了价值 500 美元的比特币，这是他们 4 个多月以来的首次操作。他们仍然持有超过 20 亿美元的比特币，这些比特币最初由这家现已倒闭的 CEX 的用户持有。\n\n按当前价格计算，自 Mt. Gox 交易所倒闭以来，其剩余比特币的价值已超过 100 亿美元。Mt. Gox 声称的最后期限是 12 月 31 日。",
+      "time": "2026-03-23 19:34:06",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253771",
+      "link": "https://www.chaincatcher.com/article/2253849",
       "tags": [
-        "现货黄金",
-        "跌幅"
+        "Mt. Gox",
+        "比特币",
+        "链上追踪"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774279641000
+      "timestamp": 1774294446000
     },
     {
-      "title": "现货白银日内跌幅扩大至 10%，触及 61 美元/盎司",
-      "content": "ChainCatcher 消息，据 Gate 行情数据显示，现货白银向下触及 61 美元/盎司，日内跌 10.17%。纽约期银日内暴跌 12.00%，现报 61.29 美元/盎司。",
-      "time": "2026-03-23 15:19:19",
+      "title": "数据：黄立成再度做多，ETH 多单已加仓至 242 万美元",
+      "content": "ChainCatcher 消息，据 HyperInsight 监测，市场快速上涨期间，黄立成紧急再做多，ETH 多单已加仓至 242 万美元，清算价格 2142 美元。",
+      "time": "2026-03-23 19:31:59",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253770",
+      "link": "https://www.chaincatcher.com/article/2253848",
       "tags": [
-        "现货白银",
-        "跌幅",
-        "期银"
+        "黄立成",
+        "ETH",
+        "多单",
+        "链上追踪"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774279159000
+      "timestamp": 1774294319000
     },
     {
-      "title": "BIT：比特币期权市场转向防御，下行保护需求显著升温",
-      "content": "ChainCatcher 消息，BIT（原 Matrixport）发布今日图表称，比特币现货价格尚未充分反映这一变化，但期权市场已有所反应，隐含波动率显著走高，下行保护需求持续升温。过去一周，比特币期权成交中看跌买盘占比达 29%，以太坊更高至 37%，仓位正明显转向防御。\n\n这轮仓位调整背后，反映的是交易者对地缘紧张局势的深层担忧：通胀压力可能因此持续更久，且影响不止于油价，而是向更广泛的增长敏感型资产扩散。因此，持续跟踪市场仓位变化仍然十分关键，尤其是期权市场。\n\n相较现货，期权往往更早反映快钱账户和战术型资金的风险偏好转变。尽管整体成交量仍处于相对低位，但市场参与者并未放松警惕，而是在主动管理尾部风险。不过值得注意的是，比特币的表现仍在跑赢其他风险资产。",
-      "time": "2026-03-23 15:12:52",
+      "title": "美 SEC 与 CFTC 发布新规，释放三种无需代币销售的合规募资模型",
+      "content": "ChainCatcher 消息，据 DeFiprime 报道，SEC 与 CFTC 联合发布 Interpretive Release 33-11412，将大部分去中心化网络原生代币界定为数字商品，并明确质押、LSD、包裹代币和合规空投不构成证券发行。\n\n在此基础上，文章提出三种此前难以落地的募资与金库模型：其一是以 ETH、SOL 等质押为基础、通过 LSD 收益和协议代币双重激励的 Liquid Genesis Staking Pools（LGSP）；其二是以贡献工作量和资金换取未来网络参与权、而非预售代币的 Commodity Pre-Participation Agreements（CPA）；其三是通过与去中心化里程碑挂钩、递减分润的 Separation-Accelerated Revenue Rights（SARR），将“分离原则”设计为驱动团队加速去中心化的收入工具。\n\n作者称，三种模型均基于现有合约组件，且在模拟中可支撑协议长期金库与团队支出。",
+      "time": "2026-03-23 19:29:01",
       "isImportant": false,
       "isHot": false,
       "isTop": false,
-      "link": "https://www.chaincatcher.com/article/2253768",
+      "link": "https://www.chaincatcher.com/article/2253847",
       "tags": [
-        "BTC",
-        "以太坊",
-        "期权市场"
+        "SEC",
+        "CFTC",
+        "质押"
       ],
       "source": "ChainCatcher",
       "sourceColor": "#FF6B35",
-      "timestamp": 1774278772000
+      "timestamp": 1774294141000
+    },
+    {
+      "title": "edgex 将于 3 月 31 日进行 TGE",
+      "content": "ChainCatcher 消息，去中心化衍生品交易平台 edgex 官方于 X 平台发文表示，将于 3 月 31 日进行 EDGE 代币 TGE 及上币活动。",
+      "time": "2026-03-23 19:27:32",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253846",
+      "tags": [
+        "edgex",
+        "TGE"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774294052000
+    },
+    {
+      "title": "美国 10 年期国债收益率下跌 8.4 个基点，报 4.307%",
+      "content": "ChainCatcher 消息，据金十报道，美国 10 年期国债收益率下跌 8.4 个基点，报 4.307%。",
+      "time": "2026-03-23 19:26:50",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253845",
+      "tags": [
+        "美国",
+        "10 年期国债"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774294010000
+    },
+    {
+      "title": "Gate 打通股指非交易时段交易窗口，指数合约活跃度领跑市场",
+      "content": "ChainCatcher 消息，3 月 23 日，美股三大指数在盘前阶段延续上周跌势，受地缘政治紧张及通胀担忧影响整体走低。\n\n据 Gate 平台数据显示，NAS100USDT（纳斯达克指数）现报 23,240.48 美元，SPX500USDT（标普 500）现报 6,472.95 美元，US30USDT（道琼斯指数）现报 45,389.87 美元。\n\n据 Coinglass 数据显示，Gate 平台 NAS100USDT（纳斯达克指数）24 小时合约成交额达 269.77 万美元，涨幅 2790.53%，位列全网交易所第一。代币化指数合约成交量激增，也体现出加密交易平台在非交易时段提供流动性的独特优势。\n\n目前，Gate 全球首创指数永续合约，合约专区已上线 15 个交易对，提供最全的全球主流股指与波动率指数，全面支持 USDT 结算与 7×24 小时连续交易。Gate 亦同步布局股票、金属、外汇及大宗商品等传统金融资产交易专区，持续构建加密资产与 TradFi 资产协同的一体化衍生品交易体系。",
+      "time": "2026-03-23 19:24:31",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253844",
+      "tags": [
+        "Gate",
+        "股指",
+        "指数合约"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774293871000
+    },
+    {
+      "title": "原油短时跌破 83 美元，日内跌幅逾 13%",
+      "content": "ChainCatcher 消息，据 Gate 行情数据显示，原油（CL）短时跌破 83 美元，当前暂报 85.6 美元。",
+      "time": "2026-03-23 19:19:47",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253843",
+      "tags": [
+        "原油",
+        "行情"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774293587000
+    },
+    {
+      "title": "受特朗普讲话影响，现货黄金短线回弹超 100 美元",
+      "content": "ChainCatcher 消息，据 Gate 行情数据显示，现货黄金短线回弹超 100 美元，最新报 4407.05 美元/盎司。\n\n此前消息，特朗普表示美伊在过去两天进行了非常良好和富有成效的对话。",
+      "time": "2026-03-23 19:19:38",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253842",
+      "tags": [
+        "特朗普",
+        "现货黄金"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774293578000
+    },
+    {
+      "title": "欧股持续拉升，欧洲斯托克 50 指数涨 3.51%",
+      "content": "ChainCatcher 消息，据 Gate 行情数据显示，欧股持续拉升，欧洲斯托克50指数上涨 3.51%，法国 CAC40 指数上涨 2.62%，德国 DAX30 指数上涨 4.26%，富时意大利 MIB 指数上涨 2.22%。",
+      "time": "2026-03-23 19:18:41",
+      "isImportant": false,
+      "isHot": false,
+      "isTop": false,
+      "link": "https://www.chaincatcher.com/article/2253841",
+      "tags": [
+        "欧洲股市",
+        "欧股",
+        "股指上涨"
+      ],
+      "source": "ChainCatcher",
+      "sourceColor": "#FF6B35",
+      "timestamp": 1774293521000
     },
     {
       "title": "网站升级公告",
@@ -349,7 +339,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "美股交易产品正式上线公告",
@@ -357,7 +347,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "【网格交易功能下架通知】（2026.1.5）",
@@ -365,7 +355,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "美股直投：快速上账服务费限免，稳定币出入金秒到账",
@@ -373,7 +363,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "请立即完成 2FA 身份认证",
@@ -381,7 +371,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "关于谷歌验证器新功能的风险提示",
@@ -389,7 +379,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "提高安全意识，谨防钓鱼网站",
@@ -397,7 +387,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "关于上线“官方渠道验证”功能的通知",
@@ -405,7 +395,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "将支援Polygon (POL)网路升级的公告",
@@ -413,7 +403,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "停用并更新选定网络的充值地址",
@@ -421,7 +411,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "将从平台下架部分代币",
@@ -429,7 +419,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "策略投资 – Prime Brokerage 系统手续费收费公告",
@@ -437,7 +427,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "Matrixport 启用全新品牌名称 BIT",
@@ -445,7 +435,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "邀友开立美股账户，赢取 USDT 奖励",
@@ -453,7 +443,7 @@
       "time": "",
       "source": "Matrixport",
       "sourceColor": "#1e3d59",
-      "timestamp": 1774256757352
+      "timestamp": 1774267820208
     },
     {
       "title": "Contact",
@@ -461,7 +451,7 @@
       "time": "",
       "source": "HashKey Group",
       "sourceColor": "#121212",
-      "timestamp": 1774256744028
+      "timestamp": 1774267807941
     },
     {
       "title": "Announcement",
@@ -469,7 +459,7 @@
       "time": "",
       "source": "HashKey Group",
       "sourceColor": "#121212",
-      "timestamp": 1774256744028
+      "timestamp": 1774267807941
     },
     {
       "title": "TradePilot 計劃NEW面向精英交易員的跨交易所跟單交易基礎設施",
@@ -477,7 +467,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1774256720124
+      "timestamp": 1774267783961
     },
     {
       "title": "統一交易帳戶新上線跨幣種保證金機制，實現資本效益最大化",
@@ -485,7 +475,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1774256720124
+      "timestamp": 1774267783961
     },
     {
       "title": "公告第一時間獲取 KuCoin 的重要更新和官方新聞",
@@ -493,7 +483,7 @@
       "time": "",
       "source": "Kucoin",
       "sourceColor": "#24ae8f",
-      "timestamp": 1774256720124
+      "timestamp": 1774267783961
     },
     {
       "title": "公告平台动态，实时更新",
@@ -501,7 +491,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "English",
@@ -509,7 +499,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Tiếng Việt",
@@ -517,7 +507,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Español",
@@ -525,7 +515,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Русский",
@@ -533,7 +523,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Français (Afrique)",
@@ -541,7 +531,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Português (Portugal)",
@@ -549,7 +539,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Bahasa Indonesia",
@@ -557,7 +547,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "بالعربية",
@@ -565,7 +555,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Українська",
@@ -573,7 +563,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Português (Brasil)",
@@ -581,7 +571,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "TradFi",
@@ -589,7 +579,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Gate AI",
@@ -597,7 +587,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Gate AI Bot",
@@ -605,7 +595,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "GateClaw（蓝龙虾）",
@@ -613,7 +603,7 @@
       "time": "",
       "source": "Gate.io",
       "sourceColor": "#e91e63",
-      "timestamp": 1774256710559
+      "timestamp": 1774267773846
     },
     {
       "title": "Español (Latinoamérica)",
@@ -621,7 +611,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Français",
@@ -629,7 +619,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Português",
@@ -637,7 +627,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "العربية",
@@ -645,7 +635,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Español (Argentina)",
@@ -653,7 +643,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Deutsch",
@@ -661,7 +651,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Español (España)",
@@ -669,7 +659,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Italiano",
@@ -677,7 +667,7 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
     },
     {
       "title": "Nederlands",
@@ -685,7 +675,232 @@
       "time": "",
       "source": "OKX",
       "sourceColor": "#000000",
-      "timestamp": 1774256699083
+      "timestamp": 1774267762080
+    },
+    {
+      "title": "委内瑞拉美元供应短缺，中小企业转向加密货币以维持生产",
+      "time": "支付",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "Bitget 发布全新品牌影片，并展示 UEX 一站式跨资产交易",
+      "time": "Bitget",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "消息人士：伊朗与美国之间既没有直接接触，也没有通过中间人进行沟通",
+      "time": "伊朗",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "分析：超 227 万个持有 1 至 100 枚 SOL 的钱包处于闲置状态",
+      "time": "Solana",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "上海高院近日发布新规，虚拟货币与数字藏品被列为可执行网络虚拟财产",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "币安 Alpha 2.0 完成 PlaysOut 代币 BEP20 至 Base 网络的合约置换",
+      "time": "交易所动态",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "edgeX：计划于 3 月 31 日进行 EDGE 代币 TGE 并上线交易",
+      "time": "项目重要进展",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "James Wynn 两日内开设的 BTC 做空仓位被完全清算",
+      "time": "BTC",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "过去 1 小时全网爆仓 2.55 亿美元，空单爆仓约 1.61 亿美元",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "特朗普：美伊已就解决中东冲突进行建设性对话，将推迟 5 天军事打击",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "比特币跌破 70000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "比特币升破 71000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "比特币升破 70000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "比特币升破 69000 USDT",
+      "time": "行情异动",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "币安：2025 年共上线 87 个项目，以太坊生态及 DeFi 赛道占主导",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "贝莱德 ETF 地址向 Coinbase 存入 839 枚 BTC 和 14,802 枚 ETH，总价值约 8770 万美元",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "Mt. Gox 地址今日转出价值约 500 美元的 BTC，仍持有逾 20 亿美元 BTC",
+      "time": "交易所动态",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "一巨鲸增持 2 万枚 ETH 做空仓位，总盈利近 2800 万美元",
+      "time": "分享到",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "WSJ：美国两党参议员拟提交法案，禁止 Kalshi 和 Polymarket 提供体育娱乐竞猜",
+      "time": "体育",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "某巨鲸开设 20 倍黄金多头仓位，价值约 761 万美元",
+      "time": "黄金",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "Mad Lads 地板价跌至 11.15 SOL，24 小时跌幅达 25%",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "Backpack：BP 代币将于今日 20:00 开放交易",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "韩国执政党拟推动提前废除虚拟资产征税，将于 3 月 25 日与交易所代表举行座谈会",
+      "time": "稳定币",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "美检察官质疑 SBF 狱中信件真实性，称其寄送路径与监狱规定不符",
+      "time": "重要消息",
+      "isImportant": true,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "一新建地址 9 小时前花费 1.87 万美元押注美伊停火",
+      "time": "伊朗",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
     },
     {
       "title": "BlockSec：PancakeSwap BCE-USDT 池遭攻击，损失约 67.9 万美元",
@@ -694,7 +909,7 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
+      "timestamp": 1774267684336
     },
     {
       "title": "Mantle DeFi TVL 突破 7.55 亿美元，六个月增长逾 230%，超越 Avalanche 和 Sui",
@@ -703,7 +918,16 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
+      "timestamp": 1774267684336
+    },
+    {
+      "title": "Byreal 上线 AutoSwap、Compound、Rebalance 流动性管理功能",
+      "time": "Solana",
+      "isImportant": false,
+      "link": "",
+      "source": "Foresight",
+      "sourceColor": "#9C27B0",
+      "timestamp": 1774267684336
     },
     {
       "title": "Perle：PRL 代币空投申诉审核进行中，注册通道将于 24 日 10:00 关闭",
@@ -712,385 +936,160 @@
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
+      "timestamp": 1774267684336
     },
     {
-      "title": "「麻吉大哥」第 335 次被清算，账户仅剩 3 万美元",
+      "title": "Strategy 上周再度增持 1031 枚比特币，目前共持有 762,099 枚",
       "time": "重要消息",
       "isImportant": true,
       "link": "",
       "source": "Foresight",
       "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
+      "timestamp": 1774267684335
     },
     {
-      "title": "ZachXBT：发现 10 余个账号协同炒作战争与政治恐慌以引流加密骗局",
-      "time": "ZachXBT",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "币安将停止支持 ATA 和 QI 通过 BNB Chain 充提",
-      "time": "交易所动态",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "某巨鲸 24 小时内向币安存入 7610 万枚 SKY，价值约 565 万美元",
-      "time": "质押",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "BIT：比特币期权市场转向防御，下行保护需求升温",
-      "time": "比特币",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "Capital B 增持 44 枚比特币，总持有量升至 2888 枚",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "H100 签署战略收购意向书，拟将比特币持仓量增加至 3501 枚",
-      "time": "比特币",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "KyberSwap：与 Resolv 攻击事件相关的钱包均已识别并阻止在平台上进一步活动",
-      "time": "Kyber Network",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "Midas：mAPOLLO 与 USR 代币存在关联，即时赎回功能已暂时停止",
-      "time": "代币化",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "币安 Alpha 2.0 将支持 PlaysOut（PLAY）于 BEP20 至 BASE 网络的合约置换",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "IoTeX 开放跨链桥安全事件赔偿申请门户",
-      "time": "项目重要进展",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "Upbit 将 Resolve（RESOLV）列为交易警示品种",
-      "time": "交易所动态",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "某持有超 13 万枚 ETH 的巨鲸出售 5000 枚 ETH 并偿还部分债务",
-      "time": "Aave",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "瑞士私人银行 Banque Syz 因加密战略分歧产生家族内讧，创始人之子离职",
-      "time": "比特币",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "Backpack 开放 BP 代币认领，并上线质押页面",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "SBF 父母：SBF 是「在新领域建立数十亿美元合法业务的先驱」",
-      "time": "FTX",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "赵长鹏：比特币是一种硬资产，其他顶级加密货币亦然",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "数据：自 2025 年 7 月以来，韩国前五大加密交易平台的稳定币余额已下降约 55%",
-      "time": "稳定币",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "数据：过去 24 小时全网爆仓 2.5 亿美元，多单爆仓约 1.94 亿美元",
-      "time": "数据追踪",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "USDC Treasury 于以太坊上销毁 5000 万枚 USDC",
-      "time": "以太坊",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "Morpho 联创：约有 15 个金库对受影响市场的风险敞口较大",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "某巨鲸从 Gate 提取 5.5 万枚 HYPE，价值约 210 万美元",
-      "time": "HYPE $37.37 \n                -2.30%",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "以太坊现货 ETF 上周净流出 5994 万美元，贝莱德 ETHA 净流出 6958.65 万美元居首",
-      "time": "信托",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "比特币现货 ETF 上周净流入 9518 万美元，连续 4 周实现净流入",
-      "time": "比特币",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "SOL 现货 ETF 上周净流入 2110 万美元，XRP 现货 ETF 上周净流入 64 万美元",
-      "time": "数据",
-      "isImportant": false,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "某以太坊 OG 地址向 Coinbase 充值 1.5 万枚 ETH，卖出将获利 3079 万美元",
-      "time": "重要消息",
-      "isImportant": true,
-      "link": "",
-      "source": "Foresight",
-      "sourceColor": "#9C27B0",
-      "timestamp": 1774256614944
-    },
-    {
-      "title": "08:58\n\t\t\t\t\t\t\t\t\t   欧洲斯托克600指数正步入技术性回调区间",
+      "title": "12:06\n\t\t\t\t\t\t\t\t\t   Strategy过去一周增持1031枚比特币，总持仓762,099枚",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337608",
+      "link": "https://www.theblockbeats.info/flash/337663",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "BlockBeats 消息，3 月 23 日，欧洲斯托克 600 指数较收盘历史高点跌幅已超过 10%，正步入技术性回调区间。(金十)",
+      "title": "BlockBeats 消息，3 月 23 日，Strategy 宣布以约 7660 万美元购入 1,031 枚比特币，均价约 74,326 美元。截至 2026 年 3 月 22 日，公司累计持有 762,099 枚比特币，总成本约 576.9 亿美元，平均持仓成本约 75,694 美元。",
       "time": "",
       "isImportant": false,
-      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184749&sharesource=weibo&title=%E6%AC%A7%E6%B4%B2%E6%96%AF%E6%89%98%E5%85%8B600%E6%8C%87%E6%95%B0%E6%AD%A3%E6%AD%A5%E5%85%A5%E6%8A%80%E6%9C%AF%E6%80%A7%E5%9B%9E%E8%B0%83%E5%8C%BA%E9%97%B4&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
+      "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fx.com%2FStrategy%2Fstatus%2F2036051067247431739%3Fs%3D20",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "08:21\n\t\t\t\t\t\t\t\t\t   K-Dense开源AI科研助手：170+科学技能、250+数据库，自带API Key本地运行",
+      "title": "12:04\n\t\t\t\t\t\t\t\t\t   伊朗媒体：霍尔木兹不会通过心理战恢复到战前状态",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337605",
+      "link": "https://www.theblockbeats.info/flash/337662",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "据 1M AI News 监测，AI 科研平台 K-Dense 开源其研究助手的 BYOK（Bring Your Own Keys）版本。核心是一个名为 Kady 的 AI Agent，接收用户问题后自动判断是直接回答还是调度特定领域的 AI「专家」处理，面向科学家、分析师等需要深度研究能力的用户。Kady 内置 170 余项科学技能，覆盖生物信息学、基因组学到材料科学等领域，可访问 250 余个科学数据库和 50 万个 Python 包。用户通过 OpenRouter 接入 40 余个 AI 模型（OpenAI、Anthropic、谷歌、xAI、Qwen 等），用自己的 API Key 付费，所有数据和文件留在本地沙箱中。专家任务的代码执行统一通过 Gemini CLI 完成，可选接入云计算平台 Modal 运行高性能计算任务。K-Dense 同时提供托管版 K-Dense Web，面向专业和学术研究团队，无需自行部署。",
+      "title": "BlockBeats 消息，3 月 23 日，伊朗塔斯尼姆通讯社表示，霍尔木兹不会通过心理战恢复到战前状态。",
       "time": "",
       "isImportant": false,
-      "link": "https://t.me/OneMillion_AI",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184806&sharesource=weibo&title=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%8D%E4%BC%9A%E9%80%9A%E8%BF%87%E5%BF%83%E7%90%86%E6%88%98%E6%81%A2%E5%A4%8D%E5%88%B0%E6%88%98%E5%89%8D%E7%8A%B6%E6%80%81&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "08:13\n\t\t\t\t\t\t\t\t\t   两个聪明钱账户投入1.11万美元认为原油会在四月前达到100美元",
+      "title": "12:03\n\t\t\t\t\t\t\t\t\t   Backpack官方代币BP开盘暂报0.214美元",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337604",
+      "link": "https://www.theblockbeats.info/flash/337661",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "据 PolyBeats 监测，在预测市场 Polymarket 上，有两个在伊朗和地缘政治事件预测高正确率的账户总计投入 1.11 万美元在「原油价格是否会在四月前达到 100 美元」中买入「是」，目前该事件「是」概率为 87%。23 日，高盛把 2026 年布伦特均价预测从 77 美元上调到 85 美元，WTI 从 72 美元上调到 79 美元；而关于短期预测，高盛把 3 月和 4 月布伦特均价由 98 美元上调至 110 美元。高盛预计霍尔木兹海峡的运输扰动会持续更久，叠加各国战略库存补库，市场会变得更紧、更容易被地缘政治推高。另外若出现 10 周严重中断并伴随每日 200 万桶的持续减产，布伦特可能冲到 135 美元。注：根据其过往交易画像判断，该交易者并非押注事件是否实际发生，存在开仓后在某一时间点止盈、止损的行为。账户：0x2974bd0059e48f215c391882976e0f1b4c8c9c23；0x2120ea0323fcf5446233056467fdb852b4b12647。",
+      "title": "BlockBeats 消息，3 月 23 日，据行情信息，Backpack 官方代币 BP 开盘暂报 0.214 美元，对应 FDV 约为 2.14 亿美元。",
       "time": "",
       "isImportant": false,
-      "link": "https://t.me/PolyBeats_Bot",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184805&sharesource=weibo&title=Backpack%E5%AE%98%E6%96%B9%E4%BB%A3%E5%B8%81BP%E5%BC%80%E7%9B%98%E6%9A%82%E6%8A%A50.214%E7%BE%8E%E5%85%83&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "08:12\n\t\t\t\t\t\t\t\t\t   ZachXBT揭露社交媒体操纵网络：利用假新闻引流加密骗局，涉案规模达数十万美元",
+      "title": "11:59\n\t\t\t\t\t\t\t\t\t   伊朗否认与特朗普「和谈」，市场回吐部分涨幅",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337603",
+      "link": "https://www.theblockbeats.info/flash/337660",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "BlockBeats 消息，3 月 23 日，链上侦探 ZachXBT 今日披露，一个由至少 10 个以上账号组成的协同网络，正通过制造战争等相关的恐慌性内容，在社交平台 X 上获取流量，并最终导流至加密诈骗项目。该网络通过购买已有粉丝基础的账号，频繁发布耸动「末日论」内容，并借助多个小号互相转发放大传播，迅速获得数百万浏览量及大量互动。",
+      "title": "BlockBeats 消息，3 月 23 日，由于伊朗法尔斯通讯社否认与特朗普进行任何直接或间接接触，市场暂时回吐部分涨幅。",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fx.com%2Fzachxbt%2Fstatus%2F2035989255395082589%3Fs%3D20",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184804&sharesource=weibo&title=%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E3%80%8C%E5%92%8C%E8%B0%88%E3%80%8D%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%9B%9E%E5%90%90%E9%83%A8%E5%88%86%E6%B6%A8%E5%B9%85&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "08:02\n\t\t\t\t\t\t\t\t\t   Binance将停止支持部分网络指定代币的充值、提现业务",
+      "title": "11:57\n\t\t\t\t\t\t\t\t\t   伊朗高级安全官员：特朗普的相关言论为心理战，伊朗将继续做出回应并捍卫国家",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337601",
+      "link": "https://www.theblockbeats.info/flash/337659",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "BlockBeats 消息，3 月 23 日，据官方公告，Binance 将于 2026 年 03 月 27 日 16:00（东八区时间）停止支持以下网络指定代币的充值和提现业务。2026 年 03 月 27 日 16:00（东八区时间）后，通过以下网络指定代币的充值将不会记入账户，可能会导致资产损失。",
+      "title": "BlockBeats 消息，3 月 23 日，据伊朗塔斯尼姆通讯社：一名伊朗高级安全官员表示，特朗普的相关言论为心理战。伊朗迄今未进行过任何谈判，目前也不存在任何谈判。伊朗将继续做出回应并捍卫国家。霍尔木兹不会通过心理战恢复到战前状态。",
       "time": "",
       "isImportant": false,
-      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184741&sharesource=weibo&title=Binance%E5%B0%86%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E9%83%A8%E5%88%86%E7%BD%91%E7%BB%9C%E6%8C%87%E5%AE%9A%E4%BB%A3%E5%B8%81%E7%9A%84%E5%85%85%E5%80%BC%E3%80%81%E6%8F%90%E7%8E%B0%E4%B8%9A%E5%8A%A1&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184803&sharesource=weibo&title=%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%AE%89%E5%85%A8%E5%AE%98%E5%91%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%EF%BC%8C%E4%BC%8A%E6%9C%97%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%81%9A%E5%87%BA%E5%9B%9E%E5%BA%94%E5%B9%B6%E6%8D%8D%E5%8D%AB%E5%9B%BD%E5%AE%B6&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "07:59\n\t\t\t\t\t\t\t\t\t   三个聪明钱账户投入8.9万美元认为美军会在五月前进入伊朗",
+      "title": "11:53\n\t\t\t\t\t\t\t\t\t   Core Scientific宣布获得摩根大通追加5亿美元融资承诺",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337599",
+      "link": "https://www.theblockbeats.info/flash/337658",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "据 PolyBeats 监测，在预测市场 Polymarket 上，有三个在伊朗和特朗普事件预测高正确率的账户总计投入 8.9 万美元在「美军是否会在五月前进入伊朗」中买入「是」，目前该事件「是」概率为 61%。22 日，特朗普被问到对哈尔克岛有什么计划时，拒绝明说，只表示自己「可能有计划，也可能没有」，23 日，美军中央司令部司令 Brad Cooper 在接受伊朗国际电视台采访时说，对伊朗的军事行动「提前或按计划进行」。注：根据其过往交易画像判断，该交易者并非押注事件是否实际发生，存在开仓后在某一时间点止盈、止损的行为。账户：0x848921be10e51b1547d50548a54b38a1778ec184；0xd576b9ee74c58fcb913675fd9c1d14c85312d5e3；0x8c80d213c0cbad777d06ee3f58f6ca4bc03102c3。",
+      "title": "BlockBeats 消息，3 月 23 日，比特币矿企 Core Scientific 宣布获得摩根大通追加 5 亿美元融资承诺，使其信贷额度总规模扩大至 10 亿美元，其中此前 5 亿美元由摩根士丹利提供。公司表示相关资金将用于数据中心建设、设备采购及能源基础设施，以支持高密度托管及 AI 相关业务发展。",
       "time": "",
       "isImportant": false,
-      "link": "https://t.me/PolyBeats_Bot",
+      "link": "https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Finvestors.corescientific.com%2Fnews-events%2Fpress-releases%2Fdetail%2F130%2Fcore-scientific-expands-strategic-financing-facility-to-1-billion-with-additional-500-million-commitment-from-j-p-morgan",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "07:54\n\t\t\t\t\t\t\t\t\t   现货黄金日内蒸发总市值超整个「加密货币市场」",
+      "title": "11:45\n\t\t\t\t\t\t\t\t\t   特朗普言论引发油价短时暴跌14%",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337597",
+      "link": "https://www.theblockbeats.info/flash/337656",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "BlockBeats 消息，3 月 23 日，据 Bitget 行情数据显示，现货黄金日内从最高 4473.06 美元一度跌至最低 4097.51 美元，市值一度蒸发约 2.837 万亿美元，超过 2 倍于比特币的总市值（现报 1.362 万亿美元），超过整个加密货币市场总市值（现报 2.427 万亿美元）。",
+      "title": "BlockBeats 消息，3 月 23 日，受特朗普议和言论影响，国际油价闻声大幅下跌。",
       "time": "",
       "isImportant": false,
-      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184737&sharesource=weibo&title=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E6%97%A5%E5%86%85%E8%92%B8%E5%8F%91%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E6%95%B4%E4%B8%AA%E3%80%8C%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%B8%82%E5%9C%BA%E3%80%8D&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184800&sharesource=weibo&title=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E5%BC%95%E5%8F%91%E6%B2%B9%E4%BB%B7%E7%9F%AD%E6%97%B6%E6%9A%B4%E8%B7%8C14%&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "07:47\n\t\t\t\t\t\t\t\t\t   交易员「Loracle」以千万规模做多黄金做空原油，今日行情下持仓双向亏损110万美元",
+      "title": "11:42\n\t\t\t\t\t\t\t\t\t   伊朗媒体：伊朗没有与特朗普进行任何直接或间接的接触",
       "time": "",
       "isImportant": false,
-      "link": "https://www.theblockbeats.info/flash/337596",
+      "link": "https://www.theblockbeats.info/flash/337655",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     },
     {
-      "title": "BlockBeats 消息，3 月 23 日，据 Hyperinsight 监测显示，受今日原油拉涨、黄金大幅下撤影响，「Hyperliquid 早期贡献者 Loracle」（0x8de）所持 PAXG（黄金）多单与 WTIOIL（WTI 原油）空单陷入双向亏损，目前合计浮亏达 110 万美元，该对冲组合规模共约 1050 万美元。",
+      "title": "BlockBeats 消息，3 月 23 日，伊朗法尔斯通讯社表示，伊朗没有与特朗普进行任何直接或间接的接触。",
       "time": "",
       "isImportant": false,
-      "link": "https://t.me/HyperInsight",
+      "link": "http://service.weibo.com/share/share.php?url=https://m.theblockbeats.info/flash/184799&sharesource=weibo&title=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%B2%A1%E6%9C%89%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9B%E8%A1%8C%E4%BB%BB%E4%BD%95%E7%9B%B4%E6%8E%A5%E6%88%96%E9%97%B4%E6%8E%A5%E7%9A%84%E6%8E%A5%E8%A7%A6&pic=https://image.blockbeats.cn/other/mob/favlogo.png&appkey=1533649352",
       "source": "BlockBeats",
       "sourceColor": "#1E88E5",
-      "timestamp": 1774256597497
+      "timestamp": 1774267676978
     }
   ]
 }
